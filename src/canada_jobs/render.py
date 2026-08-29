@@ -24,13 +24,16 @@ cybersecurity **internship / co-op** roles located in Canada.
 
 def markdown(jobs: List[Job], updated_at: str) -> str:
     lines = [HEADER.rstrip(), "", f"_Last updated: {updated_at} UTC · {len(jobs)} open roles_", ""]
-    lines += ["| Company | Role | Location | First seen | Apply |", "|---|---|---|---|---|"]
+    lines += ["| Company | Role | Location | Work mode | Type | Posted | Deadline | Apply |",
+              "|---|---|---|---|---|---|---|---|"]
     if not jobs:
-        lines.append("| — | No matching roles found today | — | — | — |")
+        lines.append("| — | No matching roles found today | — | — | — | — | — | — |")
     for job in sorted(jobs, key=lambda x: (x.company.lower(), x.title.lower())):
-        values = [job.company, job.title, job.location, job.first_seen]
+        values = [job.company, job.title, job.location or "Not specified",
+                  job.workplace_type, job.employment_type, job.posted_date,
+                  job.deadline]
         values = [value.replace("|", "\\|").replace("\n", " ") for value in values]
-        lines.append(f"| {values[0]} | {values[1]} | {values[2]} | {values[3]} | [Apply]({job.url}) |")
+        lines.append(f"| {values[0]} | {values[1]} | {values[2]} | {values[3]} | {values[4]} | {values[5]} | {values[6]} | [Apply]({job.url}) |")
     lines += ["", "<!-- JOBS:END -->", "", "## Data", "",
               "Machine-readable exports: [`data/jobs.json`](data/jobs.json) and [`data/jobs.csv`](data/jobs.csv).",
               "", "## Contributing", "",
@@ -53,4 +56,3 @@ def write_outputs(root: Path, jobs: List[Job], updated_at: str) -> None:
 
 def utc_timestamp() -> str:
     return datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
-

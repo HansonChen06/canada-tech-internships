@@ -12,7 +12,10 @@ class Job:
     source: str
     first_seen: str
     last_seen: str
+    posted_date: str = "Not specified"
+    deadline: str = "Not specified"
+    employment_type: str = "Not specified"
+    workplace_type: str = "Not specified"
 
     def to_dict(self) -> Dict[str, Any]:
         return asdict(self)
-

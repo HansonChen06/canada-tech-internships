@@ -24,7 +24,9 @@ def merge(current: List[Job], previous: Dict[str, Job], today: str,
     for job in current:
         old = previous.get(job.id)
         merged.append(Job(job.id, job.company, job.title, job.location, job.url,
-                          job.source, old.first_seen if old else today, today))
+                          job.source, old.first_seen if old else today, today,
+                          job.posted_date, job.deadline, job.employment_type,
+                          job.workplace_type))
     # A temporary ATS/network outage is not evidence that a posting closed.
     # Keep the last known rows for failed companies until a successful refresh.
     current_ids = {job.id for job in merged}
