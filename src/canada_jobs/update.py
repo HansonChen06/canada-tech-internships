@@ -53,7 +53,7 @@ def main(argv=None) -> int:
             failures.append(source["company"])
             print(f"warning: {source['company']}: {exc}", file=sys.stderr)
     previous = load_previous(root / "data" / "jobs.json")
-    jobs = merge(filter_jobs(found), previous, today, failures)
+    jobs = merge(filter_jobs(found, date.fromisoformat(today)), previous, today, failures)
     write_outputs(root, jobs, utc_timestamp())
     print(f"wrote {len(jobs)} eligible roles; {len(failures)} source failures")
     return 1 if args.strict and failures else 0

@@ -27,7 +27,12 @@ def _deadline(text: str) -> str:
         r"([A-Z][a-z]+\s+\d{1,2}(?:st|nd|rd|th)?(?:,\s*\d{4})?)",
         r"(?:application\s+deadline|deadline\s+to\s+apply|apply\s+by)\s*:?\s*"
         r"(\d{4}-\d{2}-\d{2})",
+        r"(?:application\s+deadline|deadline\s+to\s+apply|apply\s+by)\s*:?\s*"
+        r"(\d{1,2}\s+[A-Z][a-z]+\s+\d{4})",
     ]
+    # Also support labels rendered on one line and the value on the next.
+    patterns.insert(1, r"(?:application\s+deadline|deadline\s+to\s+apply|apply\s+by)\s*:?\s*"
+                       r"([A-Z][a-z]+\s+\d{1,2}(?:st|nd|rd|th)?,?\s+\d{4})")
     for pattern in patterns:
         match = re.search(pattern, text, re.I)
         if match:
@@ -39,6 +44,22 @@ def _get_json(url: str):
     request = Request(url, headers={"User-Agent": USER_AGENT, "Accept": "application/json"})
     with urlopen(request, timeout=25) as response:
         return json.load(response)
+
+
+def _get_text(url: str) -> str:
+    request = Request(url, headers={"User-Agent": USER_AGENT, "Accept": "text/html"})
+    with urlopen(request, timeout=25) as response:
+        return response.read().decode("utf-8", errors="replace")
+
+
+def _ashby_deadline(url: str) -> str:
+    """Ashby's board API omits deadlines that are embedded in the official page."""
+    try:
+        page = _get_text(url)
+        match = re.search(r'"applicationDeadline":"(\d{4}-\d{2}-\d{2})T', page)
+        return match.group(1) if match else "Not specified"
+    except Exception:
+        return "Not specified"
 
 
 def _id(provider: str, company: str, native_id: str, url: str) -> str:
@@ -84,10 +105,13 @@ def fetch_ashby(source: Dict[str, str], today: str) -> List[Job]:
         locations.extend(loc.get("location", "") for loc in item.get("secondaryLocations", []))
         location = "; ".join(value for value in locations if value)
         url = item.get("jobUrl", "")
+        title = unescape(item.get("title", ""))
+        deadline = (_ashby_deadline(url) if re.search(r"\b(intern|co[ -]?op|student)\b", title, re.I)
+                    else "Not specified")
         jobs.append(Job(_id("ashby", source["company"], str(item.get("id", "")), url),
-                        source["company"], unescape(item.get("title", "")), unescape(location), url,
+                        source["company"], title, unescape(location), url,
                         "ashby", today, today, _date(item.get("publishedAt")),
-                        _deadline(item.get("descriptionPlain", "")),
+                        deadline if deadline != "Not specified" else _deadline(item.get("descriptionPlain", "")),
                         item.get("employmentType", "Not specified") or "Not specified",
                         item.get("workplaceType", "Not specified") or "Not specified"))
     return jobs

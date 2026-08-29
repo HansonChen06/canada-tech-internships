@@ -12,5 +12,14 @@
   {"company": "Rivian and Volkswagen Group Technologies", "provider": "ashby", "slug": "rivianvw.tech"},
   {"company": "Beacon Software", "provider": "ashby", "slug": "beaconsoftware"},
   {"company": "Remarcable", "provider": "ashby", "slug": "remarcable-inc"},
-  {"company": "Research Engineering Design Canada", "provider": "ashby", "slug": "redcan"}
+  {"company": "Research Engineering Design Canada", "provider": "ashby", "slug": "redcan"},
+  {"company": "Hootsuite", "provider": "greenhouse", "slug": "hootsuite"},
+  {"company": "Geotab Internships", "provider": "greenhouse", "slug": "internshiplist2000"},
+  {"company": "StackAdapt", "provider": "greenhouse", "slug": "stackadapt-confidential"},
+  {"company": "DV Trading", "provider": "greenhouse", "slug": "dvtrading"},
+  {"company": "NationGraph", "provider": "ashby", "slug": "NationGraph"},
+  {"company": "Tonal", "provider": "ashby", "slug": "tonal"},
+  {"company": "Cohere", "provider": "ashby", "slug": "cohere"},
+  {"company": "Magnet Forensics", "provider": "lever", "slug": "magnetforensics"},
+  {"company": "Achievers", "provider": "lever", "slug": "achievers"}
 ]

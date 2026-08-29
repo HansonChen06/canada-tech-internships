@@ -5,26 +5,23 @@ cybersecurity **internship / co-op** roles located in Canada.
 
 > Automatically refreshed every day. Always confirm eligibility and deadlines
 > on the employer's official posting before applying.
+> Listings older than 180 days or past their stated deadline are automatically removed.
 
 ## Open roles
 
 <!-- JOBS:START -->
 
-_Last updated: 2026-08-29 18:05 UTC · 11 open roles_
+_Last updated: 2026-08-29 18:38 UTC · 7 open roles_
 
 | Company | Role | Location | Work mode | Type | Posted | Deadline | Apply |
 |---|---|---|---|---|---|---|---|
-| Astera Labs Early Career | Design Verification Engineer (Intern 2026) | Toronto, Ontario, Canada | Not specified | Intern / Co-op | 2025-09-22 | Not specified | [Apply](https://job-boards.greenhouse.io/asteraearlycareer2026/jobs/4611422005) |
 | Bree | Machine Learning Engineering, Intern | Toronto | Hybrid | Intern | 2026-07-15 | Not specified | [Apply](https://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a) |
-| Cresta | AI Quality Assurance Intern | Toronto, Ontario | Not specified | Intern / Co-op | 2025-12-24 | Not specified | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5047247008) |
-| Cresta | Forward Deployed Engineering Intern (AI Agent) | Toronto, Canada (Hybrid) | Not specified | Intern / Co-op | 2026-02-02 | Not specified | [Apply](https://job-boards.greenhouse.io/cresta/jobs/5106468008) |
-| Cresta | Machine Learning Engineering Intern | Toronto, Canada (Hybrid) | Not specified | Intern / Co-op | 2024-09-10 | Not specified | [Apply](https://job-boards.greenhouse.io/cresta/jobs/4123863008) |
-| Cresta | Product Design Intern for AI and Human Agents Platform | Toronto, Canada  | Not specified | Intern / Co-op | 2025-01-02 | Not specified | [Apply](https://job-boards.greenhouse.io/cresta/jobs/4476000008) |
-| Cresta | Software Engineer Intern | Toronto Canada | Not specified | Intern / Co-op | 2024-09-10 | Not specified | [Apply](https://job-boards.greenhouse.io/cresta/jobs/4123841008) |
-| Tenstorrent University | AI Compiler Software Intern (PEY) | Toronto, Ontario, Canada | Not specified | Intern / Co-op | 2025-09-12 | Not specified | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873659007) |
-| Tenstorrent University | IT Administrator Intern | Toronto, Ontario, Canada | Not specified | Intern / Co-op | 2024-09-30 | Not specified | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4527157007) |
+| Cohere | Machine Learning Intern/Co-op  (Winter 2027) | Canada; Europe; United States; United Kingdom | Remote | Intern | 2026-05-13 | Not specified | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) |
+| Cohere | Research Internship (Winter 2027) | Canada; San Francisco; Europe; London; United States; United Kingdom; Toronto; Montreal | Remote | FullTime | 2026-05-01 | Not specified | [Apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785) |
+| Cohere | Software Engineer Intern (Winter 2027) | Canada; Dubai; London; United States; United Kingdom | Remote | Intern | 2026-05-01 | Not specified | [Apply](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) |
+| Hootsuite | Co-op/Intern, IT Operations - Fall 2026 | Vancouver, British Columbia, Canada | Not specified | Intern / Co-op | 2026-08-07 | Not specified | [Apply](https://job-boards.greenhouse.io/hootsuite/jobs/8112838) |
+| NationGraph | Winter 2027 Software Engineering Intern | Toronto | OnSite | Intern | 2026-03-21 | 2026-10-26 | [Apply](https://jobs.ashbyhq.com/NationGraph/a1bcdd3e-d863-42b6-8469-ec587190ad68) |
 | Tenstorrent University | Security Engineer Intern | Toronto, Ontario, Canada | Not specified | Intern / Co-op | 2026-08-05 | Not specified | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5203134007) |
-| Waterfront International | Student Developer  | Toronto, ONT | Not specified | Intern / Co-op | 2023-10-17 | Not specified | [Apply](https://job-boards.greenhouse.io/wil/jobs/1448818) |
 
 <!-- JOBS:END -->
 

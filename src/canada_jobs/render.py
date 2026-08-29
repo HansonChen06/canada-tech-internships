@@ -15,6 +15,7 @@ cybersecurity **internship / co-op** roles located in Canada.
 
 > Automatically refreshed every day. Always confirm eligibility and deadlines
 > on the employer's official posting before applying.
+> Listings older than 180 days or past their stated deadline are automatically removed.
 
 ## Open roles
 
