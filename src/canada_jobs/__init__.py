@@ -1,0 +1,2 @@
+"""Canada tech internship aggregator."""
+

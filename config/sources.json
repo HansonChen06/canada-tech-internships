@@ -1,0 +1,16 @@
+[
+  {"company": "Faire", "provider": "greenhouse", "slug": "faire"},
+  {"company": "League", "provider": "greenhouse", "slug": "leagueinc"},
+  {"company": "Tenstorrent University", "provider": "greenhouse", "slug": "tenstorrentuniversity"},
+  {"company": "Cresta", "provider": "greenhouse", "slug": "cresta"},
+  {"company": "Waterfront International", "provider": "greenhouse", "slug": "wil"},
+  {"company": "Astera Labs Early Career", "provider": "greenhouse", "slug": "asteraearlycareer2026"},
+  {"company": "Wealthsimple", "provider": "ashby", "slug": "wealthsimple"},
+  {"company": "Bree", "provider": "ashby", "slug": "bree"},
+  {"company": "Trulioo", "provider": "ashby", "slug": "trulioo-coopandinterns"},
+  {"company": "Viggle AI", "provider": "ashby", "slug": "viggle"},
+  {"company": "Rivian and Volkswagen Group Technologies", "provider": "ashby", "slug": "rivianvw.tech"},
+  {"company": "Beacon Software", "provider": "ashby", "slug": "beaconsoftware"},
+  {"company": "Remarcable", "provider": "ashby", "slug": "remarcable-inc"},
+  {"company": "Research Engineering Design Canada", "provider": "ashby", "slug": "redcan"}
+]

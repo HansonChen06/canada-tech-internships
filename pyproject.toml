@@ -1,0 +1,9 @@
+[project]
+name = "canada-tech-internships"
+version = "0.1.0"
+description = "A daily-updated list of tech co-op and internship roles in Canada"
+requires-python = ">=3.9"
+
+[tool.unittest]
+start-directory = "tests"
+
