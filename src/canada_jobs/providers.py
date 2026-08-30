@@ -1,6 +1,7 @@
 import hashlib
 import json
 import re
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import date
 from html import unescape
 from typing import Dict, Iterable, List
@@ -10,6 +11,11 @@ from .model import Job
 
 
 USER_AGENT = "canada-tech-internships/0.1 (+https://github.com/)"
+STUDENT_TITLE_RE = re.compile(r"\b(intern(ship)?|co[ -]?op|student)\b", re.I)
+TECH_TITLE_RE = re.compile(
+    r"\b(software|developer|engineering|data|machine learning|ai|cloud|devops|"
+    r"security|cyber|qa|quality assurance|technology|technical|analytics|it|"
+    r"product|design|research|automation|platform)\b", re.I)
 
 
 def _date(value) -> str:
@@ -50,6 +56,15 @@ def _get_text(url: str) -> str:
     request = Request(url, headers={"User-Agent": USER_AGENT, "Accept": "text/html"})
     with urlopen(request, timeout=25) as response:
         return response.read().decode("utf-8", errors="replace")
+
+
+def _post_json(url: str, payload):
+    body = json.dumps(payload).encode("utf-8")
+    request = Request(url, data=body, headers={"User-Agent": USER_AGENT,
+                                               "Accept": "application/json",
+                                               "Content-Type": "application/json"})
+    with urlopen(request, timeout=30) as response:
+        return json.load(response)
 
 
 def _ashby_deadline(url: str) -> str:
@@ -117,6 +132,59 @@ def fetch_ashby(source: Dict[str, str], today: str) -> List[Job]:
     return jobs
 
 
+def _plain_html(value: str) -> str:
+    return unescape(re.sub(r"<[^>]+>", " ", value or ""))
+
+
+def fetch_workday(source: Dict[str, str], today: str) -> List[Job]:
+    host = source["host"]
+    tenant = source["tenant"]
+    site = source["site"]
+    base = f"https://{host}/wday/cxs/{tenant}/{site}"
+    summaries = {}
+    # Some Workday tenants rank exact recruiting-season phrases but return no
+    # Canadian results for a generic "intern" query (notably Capital One).
+    for query in ("intern", "co-op", "student", "Winter 2027", "Fall 2026", "Summer 2027"):
+        offset = 0
+        while offset < 200:
+            data = _post_json(f"{base}/jobs", {"appliedFacets": {}, "limit": 20,
+                                                "offset": offset, "searchText": query})
+            batch = data.get("jobPostings", [])
+            for item in batch:
+                summaries[item.get("externalPath", "")] = item
+            offset += len(batch)
+            if not batch or offset >= data.get("total", 0):
+                break
+    jobs = []
+    def build_job(entry):
+        path, summary = entry
+        title = unescape(summary.get("title", ""))
+        detail = _get_json(base + path).get("jobPostingInfo", {})
+        location = detail.get("location", "")
+        extra = detail.get("additionalLocations", []) or []
+        if extra:
+            location = "; ".join([location] + [str(item) for item in extra])
+        url = detail.get("externalUrl") or f"https://{host}/{site}{path}"
+        description = _plain_html(detail.get("jobDescription", ""))
+        deadline = _date(detail.get("endDate"))
+        if deadline == "Not specified":
+            deadline = _deadline(description)
+        return Job(_id("workday", source["company"], detail.get("jobReqId", ""), url),
+                   source["company"], title, location, url, "workday", today, today,
+                   _date(detail.get("startDate")), deadline,
+                   detail.get("timeType", "Not specified") or "Not specified",
+                   "Not specified")
+
+    candidates = [(path, item) for path, item in summaries.items()
+                  if STUDENT_TITLE_RE.search(unescape(item.get("title", "")))
+                  and TECH_TITLE_RE.search(unescape(item.get("title", "")))]
+    with ThreadPoolExecutor(max_workers=8) as pool:
+        futures = [pool.submit(build_job, entry) for entry in candidates]
+        for future in as_completed(futures):
+            jobs.append(future.result())
+    return jobs
+
+
 def _date_from_millis(value) -> str:
     if not value:
         return "Not specified"
@@ -126,7 +194,8 @@ def _date_from_millis(value) -> str:
 
 def fetch_source(source: Dict[str, str], today: str = "") -> Iterable[Job]:
     today = today or date.today().isoformat()
-    providers = {"greenhouse": fetch_greenhouse, "lever": fetch_lever, "ashby": fetch_ashby}
+    providers = {"greenhouse": fetch_greenhouse, "lever": fetch_lever,
+                 "ashby": fetch_ashby, "workday": fetch_workday}
     if source["provider"] not in providers:
         raise ValueError(f"Unsupported provider: {source['provider']}")
     return providers[source["provider"]](source, today)

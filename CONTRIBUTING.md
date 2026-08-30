@@ -8,7 +8,7 @@ Add one object to `config/sources.json`:
 {"company": "Company", "provider": "greenhouse", "slug": "company-slug"}
 ```
 
-Supported providers are `greenhouse`, `lever`, and `ashby`. The slug is the identifier in
+Supported providers are `greenhouse`, `lever`, `ashby`, and `workday`. The slug is the identifier in
 the company's hosted ATS URL, not necessarily its display name. Only official
 employer job boards should be added.
 
