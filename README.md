@@ -11,7 +11,7 @@ cybersecurity **internship / co-op** roles located in Canada.
 
 <!-- JOBS:START -->
 
-_Last updated: 2026-09-05 13:53 UTC · 107 open roles_
+_Last updated: 2026-09-06 14:12 UTC · 107 open roles_
 
 | Company | Role | Location | Work mode | Type | Posted | Deadline | Apply |
 |---|---|---|---|---|---|---|---|
@@ -21,8 +21,8 @@ _Last updated: 2026-09-05 13:53 UTC · 107 open roles_
 | BMO | Data Analytics Intern, Winter 2027 (Co-op/Internship) - 8 months | Toronto, ON, CAN | Not specified | Full time | 2026-08-18 | 2026-09-21 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Analytics-Intern--Winter-2027--Co-op-Internship----8-months_R260024336) |
 | BMO | Data Science Analyst - Audit AI & Analytics, Winter 2027 (Co-op/Internship) - 4 Months | Toronto, ON, CAN | Not specified | Full time | 2026-08-21 | 2026-09-20 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Science-Analyst---Audit-AI---Analytics--Winter-2027--Co-op-Internship----4-Months_R260024761) |
 | BMO | Data Science Risk Analyst, Winter 2027 (Co-op/Internship) - 4 Months | Toronto, ON, CAN | Not specified | Full time | 2026-08-21 | 2026-09-20 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Science-Risk-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024735) |
-| BMO | Junior Software Developer, Winter 2027 ( Co-op/Internship)- 4 months | Toronto, ON, CAN | Not specified | Full time | 2026-09-04 | 2026-09-13 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Winter-2027---Co-op-Internship---4-months_R260026089) |
 | BMO | Junior Software Developer, Winter 2027 ( Co-op/Internship)- 4 months | Toronto, ON, CAN | Not specified | Full time | 2026-09-04 | 2026-09-13 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Winter-2027---Co-op-Internship---4-months_R260026093) |
+| BMO | Junior Software Developer, Winter 2027 ( Co-op/Internship)- 4 months | Toronto, ON, CAN | Not specified | Full time | 2026-09-04 | 2026-09-13 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Winter-2027---Co-op-Internship---4-months_R260026089) |
 | BMO | Junior Software Developer, Winter 2027 (Co-op/Internship) - 4 Months | Toronto, ON, CAN | Not specified | Full time | 2026-08-20 | 2026-09-21 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024650) |
 | BMO | Product Control Analyst, Winter 2027 (Co-op/Internship) - 4 Months | Toronto, ON, CAN | Not specified | Full time | 2026-08-20 | 2026-09-21 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Product-Control-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024657) |
 | BMO | Quantitative Developer, Winter 2027 (Co-op/Internship) - 4 months | Toronto, ON, CAN | Not specified | Full time | 2026-09-04 | 2026-09-12 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Quantitative-Developer--Winter-2027--Co-op-Internship----4-months_R260026103) |
