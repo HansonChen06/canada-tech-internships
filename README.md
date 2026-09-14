@@ -11,7 +11,7 @@ cybersecurity **internship / co-op** roles located in Canada.
 
 <!-- JOBS:START -->
 
-_Last updated: 2026-09-13 14:57 UTC · 116 open roles_
+_Last updated: 2026-09-14 16:59 UTC · 118 open roles_
 
 | Company | Role | Location | Work mode | Type | Posted | Deadline | Apply |
 |---|---|---|---|---|---|---|---|
@@ -125,10 +125,12 @@ _Last updated: 2026-09-13 14:57 UTC · 116 open roles_
 | Sun Life | Student, Associate Software Engineer (Winter 2027) | Waterloo, Ontario | Not specified | Full time | 2026-09-03 | 2026-09-15 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Waterloo-Ontario/Student--Associate-Software-Engineer--Winter-2027-_JR00127614) |
 | Sun Life | Student, Associate Support Engineer, Cloud (Winter 2027) | North York, Ontario; Sun Life Waterloo King | Not specified | Full time | 2026-09-09 | 2026-09-18 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/North-York-Ontario/Student--Associate-Support-Engineer--Cloud--Winter-2027-_JR00127907) |
 | Sun Life | Student, DevOps Engineer (Winter 2027) | Waterloo, Ontario; Sun Life Toronto One York | Not specified | Full time | 2026-09-03 | 2026-09-17 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Waterloo-Ontario/Student--DevOps-Engineer--Winter-2027-_JR00127059) |
+| Sun Life | Student, Digital Analytics (Summer 2027-Summer 2028) | Toronto, Ontario | Not specified | Full time | 2026-09-14 | 2026-09-26 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Digital-Analytics--Summer-2027-Summer-2028--_JR00126578) |
 | Sun Life | Student, Junior Security Data Analyst | Toronto, Ontario | Not specified | Full time | 2026-09-10 | 2026-09-21 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Junior-Security-Data-Analyst_JR00126983) |
 | Sun Life | Student, Junior Strategy Analyst (AI Strategy) (Winter 2027) | Toronto, Ontario; Sun Life Waterloo King; Ontario Telecommuters | Not specified | Full time | 2026-09-04 | 2026-09-18 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Junior-Strategy-Analyst--AI-Strategy---Winter-2027-_JR00126666) |
 | Sun Life | Student, Security Platform Specialist (Winter 2027) | Toronto, Ontario; Sun Life Toronto One York | Not specified | Full time | 2026-09-11 | 2026-09-23 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Security-Platform-Specialist--Winter-2027-_JR00126954-1) |
 | Sun Life | Student, Security Technology Coordinator (Winter 2027) | Waterloo, Ontario; Sun Life Toronto One York | Not specified | Full time | 2026-09-09 | 2026-09-20 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Waterloo-Ontario/Student--Security-Technology-Coordinator--Winter-2027-_JR00126889) |
+| Sun Life | Student, Software Engineer (Winter 2027) | Waterloo, Ontario | Not specified | Full time | 2026-09-14 | 2026-09-24 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Waterloo-Ontario/Student--Software-Engineer--Winter-2027-_JR00127612) |
 | Wealthsimple | Credit & Fraud Analytics Intern (Winter 2027) | Toronto, Ontario | Hybrid | Intern | 2026-09-03 | 2026-09-19 | [Apply](https://jobs.ashbyhq.com/wealthsimple/c4cea9f1-950e-4035-83a8-7126b72b3a28) |
 | Wealthsimple | Design Intern (Winter 2027) | Toronto, Ontario | Hybrid | Intern | 2026-08-31 | 2026-09-19 | [Apply](https://jobs.ashbyhq.com/wealthsimple/272ea39d-c94e-4400-956a-bbe8d40461b3) |
 
