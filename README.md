@@ -11,7 +11,7 @@ cybersecurity **internship / co-op** roles located in Canada.
 
 <!-- JOBS:START -->
 
-_Last updated: 2026-09-15 15:35 UTC · 122 open roles_
+_Last updated: 2026-09-16 15:27 UTC · 126 open roles_
 
 | Company | Role | Location | Work mode | Type | Posted | Deadline | Apply |
 |---|---|---|---|---|---|---|---|
@@ -41,12 +41,13 @@ _Last updated: 2026-09-15 15:35 UTC · 122 open roles_
 | Capital One Canada | Intern, Full Stack Software Engineer - Team Sprout - Winter 2027 | Toronto, ON | Not specified | Full time | 2026-09-11 | Not specified | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010) |
 | Capital One Canada | Intern, Mobile Software Engineer - Team Gringotts North - Winter 2027 | Toronto, ON | Not specified | Full time | 2026-09-11 | Not specified | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015) |
 | CIBC | Optimization & Process Engineering Analyst Co-op (16 Month Term) | Toronto, ON | Not specified | Full time | 2026-09-11 | 2026-10-02 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Optimization---Process-Engineering-Analyst-Co-op--16-Month-Term-_2618669) |
+| CIBC | Risk Analytics Co-op Winter 2027 | Toronto, ON | Not specified | Full time | 2026-09-15 | 2026-09-29 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Risk-Analytics-Co-op-Winter-2027_2618885) |
 | Cohere | Machine Learning Intern/Co-op  (Winter 2027) | Canada; Europe; United States; United Kingdom | Remote | Intern | 2026-05-13 | Not specified | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) |
 | Cohere | Research Internship (Winter 2027) | Canada; San Francisco; Europe; London; United States; United Kingdom; Toronto; Montreal | Remote | Intern | 2026-05-01 | Not specified | [Apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785) |
 | Cohere | Software Engineer Intern (Winter 2027) | Canada; Dubai; London; United States; United Kingdom | Remote | Intern | 2026-05-01 | Not specified | [Apply](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) |
+| Geotab Internships | Competitive Intelligence and Market Research Intern (Winter/January 2027, 12 Months) | Oakville, Ontario - Canada; Toronto, Ontario - Canada | Not specified | Intern / Co-op | 2026-09-15 | Not specified | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5413032008) |
 | Geotab Internships | Embedded Developer Intern (Winter/January 2027, 4 Months) | Oakville, Ontario - Canada; Waterloo, Ontario - Canada | Not specified | Intern / Co-op | 2026-09-01 | Not specified | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5406651008) |
 | Geotab Internships | Embedded Developer Intern, Engine Data Reliability ( Winter/ January 2027, 12-16 months) | Oakville, Ontario - Canada | Not specified | Intern / Co-op | 2026-09-10 | Not specified | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008) |
-| Geotab Internships | Hardware Developer Intern (Summer/May 2027, 12 Months) | Oakville, Ontario - Canada | Not specified | Intern / Co-op | 2026-09-02 | Not specified | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5380567008) |
 | Geotab Internships | Insights & Integrations Consultancy, Data Scientist Intern (Winter/January 2027, 4 - 8 Months) | Oakville, Ontario - Canada; Waterloo, Ontario - Canada | Not specified | Intern / Co-op | 2026-05-04 | Not specified | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5156504008) |
 | Geotab Internships | IT Support Intern (Winter/January 2027, 8 Months) | Waterloo, Ontario - Canada | Not specified | Intern / Co-op | 2026-09-08 | Not specified | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5399993008) |
 | Geotab Internships | Mechanical Engineering Intern (Summer/May 2027, 16 Months) | Oakville, Ontario - Canada | Not specified | Intern / Co-op | 2026-09-02 | Not specified | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5371916008) |
@@ -131,10 +132,13 @@ _Last updated: 2026-09-15 15:35 UTC · 122 open roles_
 | Sun Life | Student, DevOps Engineer (Winter 2027) | Waterloo, Ontario; Sun Life Toronto One York | Not specified | Full time | 2026-09-03 | 2026-09-17 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Waterloo-Ontario/Student--DevOps-Engineer--Winter-2027-_JR00127059) |
 | Sun Life | Student, Digital Analytics (Summer 2027-Summer 2028) | Toronto, Ontario | Not specified | Full time | 2026-09-14 | 2026-09-26 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Digital-Analytics--Summer-2027-Summer-2028--_JR00126578) |
 | Sun Life | Student, Junior Security Data Analyst | Toronto, Ontario | Not specified | Full time | 2026-09-10 | 2026-09-21 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Junior-Security-Data-Analyst_JR00126983) |
-| Sun Life | Student, Junior Strategy Analyst (AI Strategy) (Winter 2027) | Toronto, Ontario; Sun Life Waterloo King; Ontario Telecommuters | Not specified | Full time | 2026-09-04 | 2026-09-18 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Junior-Strategy-Analyst--AI-Strategy---Winter-2027-_JR00126666) |
+| Sun Life | Student, Junior Strategy Analyst (AI Strategy) (Winter 2027) | Toronto, Ontario; Sun Life Waterloo King; Ontario Telecommuters | Not specified | Full time | 2026-09-15 | 2026-09-21 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Junior-Strategy-Analyst--AI-Strategy---Winter-2027-_JR00126666) |
 | Sun Life | Student, Security Platform Specialist (Winter 2027) | Toronto, Ontario; Sun Life Toronto One York | Not specified | Full time | 2026-09-11 | 2026-09-23 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Security-Platform-Specialist--Winter-2027-_JR00126954-1) |
 | Sun Life | Student, Security Technology Coordinator (Winter 2027) | Waterloo, Ontario; Sun Life Toronto One York | Not specified | Full time | 2026-09-09 | 2026-09-20 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Waterloo-Ontario/Student--Security-Technology-Coordinator--Winter-2027-_JR00126889) |
 | Sun Life | Student, Software Engineer (Winter 2027) | Waterloo, Ontario | Not specified | Full time | 2026-09-14 | 2026-09-24 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Waterloo-Ontario/Student--Software-Engineer--Winter-2027-_JR00127612) |
+| Trulioo | Junior Quality Assurance Engineer Co-op | Vancouver, BC | Hybrid | Intern | 2026-09-15 | 2026-09-28 | [Apply](https://jobs.ashbyhq.com/trulioo-coopandinterns/cf17a0bf-06d0-4c26-9fdb-931b9e031087) |
+| Trulioo | Junior Software Engineer Co-op (Collider) | Vancouver, BC | Hybrid | Intern | 2026-09-15 | 2026-09-28 | [Apply](https://jobs.ashbyhq.com/trulioo-coopandinterns/502088e8-88a8-4a21-ac67-350845f8e6c2) |
+| Trulioo | Junior Software Engineer Co-op (KYB) | Vancouver, BC | Hybrid | Intern | 2026-09-15 | 2026-09-28 | [Apply](https://jobs.ashbyhq.com/trulioo-coopandinterns/cef3851b-801a-4e6c-9395-ba4cd2638847) |
 | Wealthsimple | Credit & Fraud Analytics Intern (Winter 2027) | Toronto, Ontario | Hybrid | Intern | 2026-09-03 | 2026-09-19 | [Apply](https://jobs.ashbyhq.com/wealthsimple/c4cea9f1-950e-4035-83a8-7126b72b3a28) |
 | Wealthsimple | Design Intern (Winter 2027) | Toronto, Ontario | Hybrid | Intern | 2026-08-31 | 2026-09-19 | [Apply](https://jobs.ashbyhq.com/wealthsimple/272ea39d-c94e-4400-956a-bbe8d40461b3) |
 
