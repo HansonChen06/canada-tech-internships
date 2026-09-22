@@ -11,7 +11,7 @@ cybersecurity **internship / co-op** roles located in Canada.
 
 <!-- JOBS:START -->
 
-_Last updated: 2026-09-21 17:05 UTC · 79 open roles_
+_Last updated: 2026-09-22 15:33 UTC · 83 open roles_
 
 | Company | Role | Location | Work mode | Type | Posted | Deadline | Apply |
 |---|---|---|---|---|---|---|---|
@@ -29,9 +29,13 @@ _Last updated: 2026-09-21 17:05 UTC · 79 open roles_
 | Capital One Canada | Intern, Full Stack Software Engineer - Team Pickle - Winter 2027 | Toronto, ON | Not specified | Full time | 2026-09-21 | Not specified | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013) |
 | Capital One Canada | Intern, Full Stack Software Engineer - Team Sprout - Winter 2027 | Toronto, ON | Not specified | Full time | 2026-09-21 | Not specified | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010) |
 | Capital One Canada | Intern, Mobile Software Engineer - Team Gringotts North - Winter 2027 | Toronto, ON | Not specified | Full time | 2026-09-21 | Not specified | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015) |
+| CIBC | Cloud Engineering Co-op | Toronto, ON | Not specified | Full time | 2026-09-21 | 2026-10-02 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Cloud-Engineering-Co-op_2619386-1) |
+| CIBC | Data Analytics Co-op | Toronto, ON | Not specified | Full time | 2026-09-21 | 2026-10-02 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analytics-Co-op_2619373) |
+| CIBC | IT Project Management Co-op | Toronto, ON | Not specified | Full time | 2026-09-21 | 2026-10-02 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/IT-Project-Management-Co-op_2619340) |
 | CIBC | Optimization & Process Engineering Analyst Co-op (16 Month Term) | Toronto, ON | Not specified | Full time | 2026-09-11 | 2026-10-02 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Optimization---Process-Engineering-Analyst-Co-op--16-Month-Term-_2618669) |
-| CIBC | Process Engineering Analyst, Continuous Improvement  & Data Insights Co-op (12 to 16 month Term) | Toronto, ON | Not specified | Full time | 2026-09-17 | 2026-10-09 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Process-Engineering-Analyst--Continuous-Improvement----Data-Insights-Co-op--12-to-16-month-Term-_2619157) |
-| CIBC | Risk Analytics Co-op Winter 2027 | Toronto, ON | Not specified | Full time | 2026-09-15 | 2026-09-29 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Risk-Analytics-Co-op-Winter-2027_2618885) |
+| CIBC | Process Engineering Analyst, Continuous Improvement  & Data Insights Co-op (12 to 16 month Term) | Toronto, ON | Not specified | Full time | 2026-09-21 | 2026-10-09 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Process-Engineering-Analyst--Continuous-Improvement----Data-Insights-Co-op--12-to-16-month-Term-_2619157) |
+| CIBC | Risk Analytics Co-op Winter 2027 | Toronto, ON | Not specified | Full time | 2026-09-21 | 2026-09-29 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Risk-Analytics-Co-op-Winter-2027_2618885) |
+| CIBC | Technical Systems Analyst Co-op | Toronto, ON | Not specified | Full time | 2026-09-22 | 2026-10-02 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Technical-Systems-Analyst-Co-op_2619421) |
 | Cohere | Machine Learning Intern/Co-op  (Winter 2027) | Canada; Europe; United States; United Kingdom | Remote | Intern | 2026-05-13 | Not specified | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) |
 | Cohere | Research Internship (Winter 2027) | Canada; San Francisco; Europe; London; United States; United Kingdom; Toronto; Montreal | Remote | Intern | 2026-05-01 | Not specified | [Apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785) |
 | Cohere | Software Engineer Intern (Winter 2027) | Canada; Dubai; London; United States; United Kingdom | Remote | Intern | 2026-05-01 | Not specified | [Apply](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) |
@@ -82,7 +86,7 @@ _Last updated: 2026-09-21 17:05 UTC · 79 open roles_
 | StackAdapt | Software Engineer Intern - Winter 2027 | Canada | Not specified | Intern / Co-op | 2026-09-08 | Not specified | [Apply](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386549009) |
 | StackAdapt | Software Engineer, Backend Intern - Winter 2027 | Canada | Not specified | Intern / Co-op | 2026-09-08 | Not specified | [Apply](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386552009) |
 | Sun Life | Student, Analytics & Technology Systems (Winter 2027) | Sun Life Toronto One York | Not specified | Full time | 2026-09-15 | 2026-09-25 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Sun-Life-Toronto-One-York/Student--Analytics---Technology-Systems--Winter-2027-_JR00126478) |
-| Sun Life | Student, Associate Support Engineer, Cloud (Winter 2027) | North York, Ontario; Sun Life Waterloo King | Not specified | Full time | 2026-09-18 | 2026-09-22 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/North-York-Ontario/Student--Associate-Support-Engineer--Cloud--Winter-2027-_JR00127907) |
+| Sun Life | Student, Associate Support Engineer, Cloud (Winter 2027) | North York, Ontario; Sun Life Waterloo King | Not specified | Full time | 2026-09-21 | 2026-09-23 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/North-York-Ontario/Student--Associate-Support-Engineer--Cloud--Winter-2027-_JR00127907) |
 | Sun Life | Student, Cloud Infrastructure Analyst (Winter 2027) | Toronto, Ontario; Sun Life Waterloo King | Not specified | Full time | 2026-09-18 | 2026-09-29 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Cloud-Infrastructure-Analyst--Winter-2027-_JR00128129) |
 | Sun Life | Student, Data Engineer (Winter and Summer 2027) | Toronto, Ontario; Montreal, Quebec; Waterloo, Ontario; Sun Life Montreal Metcalfe | Not specified | Full time | 2026-09-16 | 2026-09-28 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Data-Engineer--Winter-and-Summer-2027-_JR00127385) |
 | Sun Life | Student, Data Governance Analyst (Winter 2027) | Toronto, Ontario; Sun Life Waterloo King | Not specified | Full time | 2026-09-15 | 2026-09-25 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Data-Governance-Analyst--Winter-2027-_JR00127829) |
