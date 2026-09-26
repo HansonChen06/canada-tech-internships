@@ -11,7 +11,7 @@ cybersecurity **internship / co-op** roles located in Canada.
 
 <!-- JOBS:START -->
 
-_Last updated: 2026-09-25 15:50 UTC · 81 open roles_
+_Last updated: 2026-09-26 15:00 UTC · 80 open roles_
 
 | Company | Role | Location | Work mode | Type | Posted | Deadline | Apply |
 |---|---|---|---|---|---|---|---|
@@ -31,6 +31,7 @@ _Last updated: 2026-09-25 15:50 UTC · 81 open roles_
 | Capital One Canada | Intern, Full Stack Software Engineer - Team Pickle - Winter 2027 | Toronto, ON | Not specified | Full time | 2026-09-21 | Not specified | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013) |
 | Capital One Canada | Intern, Full Stack Software Engineer - Team Sprout - Winter 2027 | Toronto, ON | Not specified | Full time | 2026-09-21 | Not specified | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010) |
 | Capital One Canada | Intern, Mobile Software Engineer - Team Gringotts North - Winter 2027 | Toronto, ON | Not specified | Full time | 2026-09-21 | Not specified | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015) |
+| CIBC | AI & Data Analytics and Reporting Analyst Co-op | Toronto, ON | Not specified | Full time | 2026-09-25 | 2026-10-09 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI---Data-Analytics-and-Reporting-Analyst-Co-op_2619748) |
 | CIBC | Application/Software Developer Co-op | Toronto, ON | Not specified | Full time | 2026-09-22 | 2026-10-06 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op_2619454) |
 | CIBC | Cloud Engineering Co-op | Toronto, ON | Not specified | Full time | 2026-09-21 | 2026-10-02 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Cloud-Engineering-Co-op_2619386-1) |
 | CIBC | Data Analytics Co-op | Toronto, ON | Not specified | Full time | 2026-09-21 | 2026-10-02 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analytics-Co-op_2619373) |
@@ -68,7 +69,6 @@ _Last updated: 2026-09-25 15:50 UTC · 81 open roles_
 | Manulife | Summer Intern 2027 - Software Engineering (8 Months) | Toronto, Ontario | Not specified | Full time | 2026-08-31 | 2026-10-05 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering--8-Months-_JR26081685) |
 | Manulife | Winter Co-op 2027 - AI | Toronto, Ontario | Not specified | Full time | 2026-08-31 | 2026-10-05 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---AI_JR26081677) |
 | Manulife | Winter Co-op 2027 - AI (12 Months) | Toronto, Ontario | Not specified | Full time | 2026-08-31 | 2026-10-05 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---AI--12-Months-_JR26081678) |
-| Manulife | Winter Co-op 2027 - Credit Research | Toronto, Ontario | Not specified | Full time | 2026-09-23 | 2026-09-26 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Credit-Research_JR26090937) |
 | Manulife | Winter Co-op 2027 - Data & Analytics | Toronto, Ontario | Not specified | Full time | 2026-08-31 | 2026-10-05 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Winter-Co-op---Data---Analytics_JR26081943) |
 | Manulife | Winter Co-op 2027 - Data & Analytics (8 Months) | Toronto, Ontario | Not specified | Full time | 2026-08-31 | 2026-10-05 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Winter-Co-op---Data---Analytics--8-Months-_JR26081944) |
 | Manulife | Winter Co-op 2027 - Data Engineering | Toronto, Ontario | Not specified | Full time | 2026-08-31 | 2026-10-05 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Data-Engineering_JR26081658) |
@@ -90,7 +90,6 @@ _Last updated: 2026-09-25 15:50 UTC · 81 open roles_
 | StackAdapt | Software Engineer, Backend Intern - Winter 2027 | Canada | Not specified | Intern / Co-op | 2026-09-08 | Not specified | [Apply](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386552009) |
 | Sun Life | Student, Cloud Infrastructure Analyst (Winter 2027) | Toronto, Ontario; Sun Life Waterloo King | Not specified | Full time | 2026-09-18 | 2026-09-29 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Cloud-Infrastructure-Analyst--Winter-2027-_JR00128129) |
 | Sun Life | Student, Data Engineer (Winter and Summer 2027) | Toronto, Ontario; Montreal, Quebec; Waterloo, Ontario; Sun Life Montreal Metcalfe | Not specified | Full time | 2026-09-16 | 2026-09-28 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Data-Engineer--Winter-and-Summer-2027-_JR00127385) |
-| Sun Life | Student, Digital Analytics (Summer 2027-Summer 2028) | Toronto, Ontario | Not specified | Full time | 2026-09-14 | 2026-09-26 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Digital-Analytics--Summer-2027-Summer-2028--_JR00126578) |
 | Sun Life | Student, Jr. Analytics and Automation Developer (Winter 2027) | North York, Ontario; Sun Life Waterloo King | Not specified | Full time | 2026-09-21 | 2026-09-30 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/North-York-Ontario/Student--Jr-Analytics-and-Automation-Developer--Winter-2027-_JR00127514) |
 | Sun Life | Student, MarTech Software Engineer (Winter 2027) | Waterloo, Ontario; Sun Life Waterloo King | Not specified | Full time | 2026-09-18 | 2026-09-29 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Waterloo-Ontario/Student--MarTech-Software-Engineer--Winter-2027-_JR00128038) |
 | Trulioo | Junior Quality Assurance Engineer Co-op | Vancouver, BC | Hybrid | Intern | 2026-09-15 | 2026-09-28 | [Apply](https://jobs.ashbyhq.com/trulioo-coopandinterns/cf17a0bf-06d0-4c26-9fdb-931b9e031087) |
