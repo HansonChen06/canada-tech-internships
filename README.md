@@ -11,7 +11,7 @@ cybersecurity **internship / co-op** roles located in Canada.
 
 <!-- JOBS:START -->
 
-_Last updated: 2026-09-26 15:00 UTC · 80 open roles_
+_Last updated: 2026-09-27 15:41 UTC · 80 open roles_
 
 | Company | Role | Location | Work mode | Type | Posted | Deadline | Apply |
 |---|---|---|---|---|---|---|---|
