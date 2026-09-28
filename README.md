@@ -11,14 +11,16 @@ cybersecurity **internship / co-op** roles located in Canada.
 
 <!-- JOBS:START -->
 
-_Last updated: 2026-09-27 15:41 UTC · 80 open roles_
+_Last updated: 2026-09-28 18:37 UTC · 78 open roles_
 
 | Company | Role | Location | Work mode | Type | Posted | Deadline | Apply |
 |---|---|---|---|---|---|---|---|
 | Achievers | Software Engineering Co-op - Winter 2027 | Toronto | hybrid | Co-op | 2026-09-18 | Not specified | [Apply](https://jobs.lever.co/achievers/e0700fce-b33b-435a-ab90-84bbd677e181) |
 | BMO | AI Engineer, Winter 2027 (Co-op/Internship) - 8 months | Toronto, ON, CAN | Not specified | Full time | 2026-09-24 | 2026-10-08 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Engineer--Winter-2027--Co-op-Internship----8-months_R260027622) |
+| BMO | AI/Platform Analyst, Winter 2027 (Co-op/Internship) - 8 months | Toronto, ON, CAN | Not specified | Full time | 2026-09-28 | 2026-10-01 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-1) |
 | BMO | Product Control Analyst, Winter 2027 (Co-op/Internship) - 4 Months | Toronto, ON, CAN | Not specified | Full time | 2026-09-24 | 2026-09-30 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Product-Control-Analyst--Winter-2027--Co-op-Internship----4-Months_R260024657) |
 | BMO | Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months | Toronto, ON, CAN | Not specified | Full time | 2026-09-21 | 2026-10-17 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-2) |
+| BMO | Software Developer, Winter 2027 (Co-op/Internship) - 12 Months | Toronto, ON, CAN | Not specified | Full time | 2026-09-28 | 2026-10-11 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----12-Months_R260024678) |
 | BMO | Software Developer, Winter 2027 (Co-op/Internship) - 8 Months | Toronto, ON, CAN | Not specified | Full time | 2026-09-25 | 2026-09-30 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----8-Months_R260024640-2) |
 | Bree | Machine Learning Engineering, Intern | Toronto | Hybrid | Intern | 2026-07-15 | Not specified | [Apply](https://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a) |
 | Bree | Software Engineer, Backend (Co-op) | Toronto | Hybrid | Intern | 2026-09-04 | Not specified | [Apply](https://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b) |
@@ -40,7 +42,6 @@ _Last updated: 2026-09-27 15:41 UTC · 80 open roles_
 | CIBC | Process Engineering Analyst, Continuous Improvement  & Data Insights Co-op (12 to 16 month Term) | Toronto, ON | Not specified | Full time | 2026-09-21 | 2026-10-09 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Process-Engineering-Analyst--Continuous-Improvement----Data-Insights-Co-op--12-to-16-month-Term-_2619157) |
 | CIBC | Quality Assurance Analyst-Co-op Winter 2027 | Toronto, ON | Not specified | Full time | 2026-09-23 | 2026-09-30 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Quality-Assurance-Analyst-Co-op-Winter-2027_2619573) |
 | CIBC | Risk Analytics Co-op Winter 2027 | Toronto, ON | Not specified | Full time | 2026-09-21 | 2026-09-29 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Risk-Analytics-Co-op-Winter-2027_2618885) |
-| CIBC | Software/Application Developer Co-op | Toronto, ON | Not specified | Full time | 2026-09-22 | 2026-10-13 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461) |
 | CIBC | Technical Systems Analyst Co-op | Toronto, ON | Not specified | Full time | 2026-09-22 | 2026-10-02 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Technical-Systems-Analyst-Co-op_2619421) |
 | Cohere | Machine Learning Intern/Co-op  (Winter 2027) | Canada; Europe; United States; United Kingdom | Remote | Intern | 2026-05-13 | Not specified | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) |
 | Cohere | Research Internship (Winter 2027) | Canada; San Francisco; Europe; London; United States; United Kingdom; Toronto; Montreal | Remote | Intern | 2026-05-01 | Not specified | [Apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785) |
@@ -49,6 +50,7 @@ _Last updated: 2026-09-27 15:41 UTC · 80 open roles_
 | Geotab Internships | Embedded Developer Intern (Winter/January 2027, 4-12 Months) | Oakville, Ontario - Canada; Waterloo, Ontario - Canada | Not specified | Intern / Co-op | 2026-09-01 | Not specified | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5406651008) |
 | Geotab Internships | Embedded Developer Intern, Engine Data Reliability ( Winter/ January 2027, 12-16 months) | Oakville, Ontario - Canada | Not specified | Intern / Co-op | 2026-09-10 | Not specified | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008) |
 | Geotab Internships | IT Support Intern (Winter/January 2027, 8 Months) | Waterloo, Ontario - Canada | Not specified | Intern / Co-op | 2026-09-08 | Not specified | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5399993008) |
+| Geotab Internships | Mechanical Engineering Intern (Summer/May 2027, 16 Months) | Oakville, Ontario - Canada | Not specified | Intern / Co-op | 2026-09-02 | Not specified | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5371916008) |
 | Geotab Internships | Product Coordinator Intern, Driver Compliance (Winter/January 2027, 12 Months) | Oakville, Ontario - Canada; Toronto, Ontario - Canada; Waterloo, Ontario - Canada | Not specified | Intern / Co-op | 2026-09-02 | Not specified | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5360844008) |
 | Geotab Internships | Product Management Intern, Installation Experience (Winter/January 2027, 8 - 12 Months) | Oakville, Ontario - Canada | Not specified | Intern / Co-op | 2026-09-02 | Not specified | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5383920008) |
 | Geotab Internships | Product Marketing Intern (Winter/January 2027, 12 Months)  | Oakville, Ontario - Canada; Toronto, Ontario - Canada | Not specified | Intern / Co-op | 2026-09-17 | Not specified | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5422327008) |
@@ -89,12 +91,8 @@ _Last updated: 2026-09-27 15:41 UTC · 80 open roles_
 | StackAdapt | Software Engineer Intern - Winter 2027 | Canada | Not specified | Intern / Co-op | 2026-09-08 | Not specified | [Apply](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386549009) |
 | StackAdapt | Software Engineer, Backend Intern - Winter 2027 | Canada | Not specified | Intern / Co-op | 2026-09-08 | Not specified | [Apply](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386552009) |
 | Sun Life | Student, Cloud Infrastructure Analyst (Winter 2027) | Toronto, Ontario; Sun Life Waterloo King | Not specified | Full time | 2026-09-18 | 2026-09-29 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Cloud-Infrastructure-Analyst--Winter-2027-_JR00128129) |
-| Sun Life | Student, Data Engineer (Winter and Summer 2027) | Toronto, Ontario; Montreal, Quebec; Waterloo, Ontario; Sun Life Montreal Metcalfe | Not specified | Full time | 2026-09-16 | 2026-09-28 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Data-Engineer--Winter-and-Summer-2027-_JR00127385) |
 | Sun Life | Student, Jr. Analytics and Automation Developer (Winter 2027) | North York, Ontario; Sun Life Waterloo King | Not specified | Full time | 2026-09-21 | 2026-09-30 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/North-York-Ontario/Student--Jr-Analytics-and-Automation-Developer--Winter-2027-_JR00127514) |
 | Sun Life | Student, MarTech Software Engineer (Winter 2027) | Waterloo, Ontario; Sun Life Waterloo King | Not specified | Full time | 2026-09-18 | 2026-09-29 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Waterloo-Ontario/Student--MarTech-Software-Engineer--Winter-2027-_JR00128038) |
-| Trulioo | Junior Quality Assurance Engineer Co-op | Vancouver, BC | Hybrid | Intern | 2026-09-15 | 2026-09-28 | [Apply](https://jobs.ashbyhq.com/trulioo-coopandinterns/cf17a0bf-06d0-4c26-9fdb-931b9e031087) |
-| Trulioo | Junior Software Engineer Co-op (Collider) | Vancouver, BC | Hybrid | Intern | 2026-09-15 | 2026-09-28 | [Apply](https://jobs.ashbyhq.com/trulioo-coopandinterns/502088e8-88a8-4a21-ac67-350845f8e6c2) |
-| Trulioo | Junior Software Engineer Co-op (KYB) | Vancouver, BC | Hybrid | Intern | 2026-09-15 | 2026-09-28 | [Apply](https://jobs.ashbyhq.com/trulioo-coopandinterns/cef3851b-801a-4e6c-9395-ba4cd2638847) |
 
 <!-- JOBS:END -->
 
