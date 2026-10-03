@@ -11,7 +11,7 @@ cybersecurity **internship / co-op** roles located in Canada.
 
 <!-- JOBS:START -->
 
-_Last updated: 2026-10-02 16:39 UTC · 65 open roles_
+_Last updated: 2026-10-03 15:10 UTC · 66 open roles_
 
 | Company | Role | Location | Work mode | Type | Posted | Deadline | Apply |
 |---|---|---|---|---|---|---|---|
@@ -78,6 +78,7 @@ _Last updated: 2026-10-02 16:39 UTC · 65 open roles_
 | StackAdapt | Software Engineer Intern - Winter 2027 | Canada | Not specified | Intern / Co-op | 2026-09-08 | Not specified | [Apply](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386549009) |
 | StackAdapt | Software Engineer, Backend Intern - Winter 2027 | Canada | Not specified | Intern / Co-op | 2026-09-08 | Not specified | [Apply](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386552009) |
 | Sun Life | Student, Associate Software Engineer (Winter 2027) | Toronto, Ontario; Sun Life Waterloo King | Not specified | Full time | 2026-10-01 | 2026-10-08 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Associate-Software-Engineer--Winter-2027-_JR00128318) |
+| Sun Life | Student, Cloud CX Consultant (Winter 2027) | Waterloo, Ontario | Not specified | Full time | 2026-10-02 | 2026-10-12 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Waterloo-Ontario/Student--Cloud-CX-Consultant--Winter-2027-_JR00128340) |
 | Sun Life | Student, Data Centre (Winter 2027)  - First Nations, Inuit, or Métis Candidates | Waterloo, Ontario | Not specified | Full time | 2026-10-01 | 2026-10-29 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Waterloo-Ontario/Student--Data-Centre--Winter-2027-----First-Nations--Inuit--or-Mtis-Candidates_JR00128194) |
 | Sun Life | Student, Digital Analytics (Summer 2027-Summer 2028) | Toronto, Ontario | Not specified | Full time | 2026-09-30 | 2026-10-10 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Digital-Analytics--Summer-2027-Summer-2028--_JR00126578) |
 
