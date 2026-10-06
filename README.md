@@ -11,7 +11,7 @@ cybersecurity **internship / co-op** roles located in Canada.
 
 <!-- JOBS:START -->
 
-_Last updated: 2026-10-05 19:49 UTC · 49 open roles_
+_Last updated: 2026-10-06 17:13 UTC · 53 open roles_
 
 | Company | Role | Location | Work mode | Type | Posted | Deadline | Apply |
 |---|---|---|---|---|---|---|---|
@@ -22,6 +22,7 @@ _Last updated: 2026-10-05 19:49 UTC · 49 open roles_
 | Bree | Machine Learning Engineering, Intern | Toronto | Hybrid | Intern | 2026-07-15 | Not specified | [Apply](https://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a) |
 | Bree | Software Engineer, Backend (Co-op) | Toronto | Hybrid | Intern | 2026-09-04 | Not specified | [Apply](https://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b) |
 | Bree | Software Engineer, Product (Co-op) | Toronto | Hybrid | Intern | 2026-09-04 | Not specified | [Apply](https://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88) |
+| CAE | Software Developer Coop | Montreal (St. Laurent) | Not specified | Full time | 2026-10-06 | Not specified | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Software-Developer-Coop_123904) |
 | CAE | Stagiaire - Génie Industriel/Manufacturier et Amélioration Continue / ndustrial/Manufacturing Engineering and Continuous Improvement Intern | Montreal (St. Laurent) | Not specified | Full time | 2026-09-21 | Not specified | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Gnie-Industriel-Manufacturier-et-Amlioration-Continue---ndustrial-Manufacturing-Engineering-and-Continuous-Improvement-Intern_123649) |
 | CAE | Tax Intern – Tax Technology & AI Enablement | Montreal (St. Laurent) | Not specified | Full time | 2026-09-21 | Not specified | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Tax-Intern---Tax-Technology---AI-Enablement_123617) |
 | Capital One Canada | Intern, Backend Software Engineer - Team Interstellar - Winter 2027 | Toronto, ON | Not specified | Full time | 2026-09-21 | Not specified | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022) |
@@ -32,6 +33,7 @@ _Last updated: 2026-10-05 19:49 UTC · 49 open roles_
 | Capital One Canada | Intern, Full Stack Software Engineer - Team Sprout - Winter 2027 | Toronto, ON | Not specified | Full time | 2026-09-21 | Not specified | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010) |
 | Capital One Canada | Intern, Mobile Software Engineer - Team Gringotts North - Winter 2027 | Toronto, ON | Not specified | Full time | 2026-09-21 | Not specified | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015) |
 | CIBC | AI & Data Analytics and Reporting Analyst, Winter 2027 Co-op | Toronto, ON | Not specified | Full time | 2026-10-01 | 2026-10-09 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI---Data-Analytics-and-Reporting-Analyst-Co-op_2619748) |
+| CIBC | Optimization & Process Engineering Analyst Co-op (16 Month Term) | Toronto, ON | Not specified | Full time | 2026-10-05 | 2026-11-20 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Optimization---Process-Engineering-Analyst-Co-op--16-Month-Term-_2618669) |
 | CIBC | Process Engineering Analyst, Continuous Improvement  & Data Insights Co-op (12 to 16 month Term) | Toronto, ON | Not specified | Full time | 2026-09-21 | 2026-10-09 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Process-Engineering-Analyst--Continuous-Improvement----Data-Insights-Co-op--12-to-16-month-Term-_2619157) |
 | CIBC | Quality Assurance Analyst, Winter 2027 Co-op | Toronto, ON | Not specified | Full time | 2026-10-01 | 2026-10-08 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Quality-Assurance-Analyst-Co-op-Winter-2027_2619573) |
 | CIBC | Software/Application Developer Co-op | Toronto, ON | Not specified | Full time | 2026-09-28 | 2026-10-12 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461) |
@@ -64,6 +66,8 @@ _Last updated: 2026-10-05 19:49 UTC · 49 open roles_
 | Sun Life | Student, Data Analyst  (Winter 2027) | Toronto, Ontario; Sun Life Waterloo King | Not specified | Full time | 2026-10-05 | 2026-10-13 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Data-Analyst---Winter-2027-_JR00128365) |
 | Sun Life | Student, Data Centre (Winter 2027)  - First Nations, Inuit, or Métis Candidates | Waterloo, Ontario | Not specified | Full time | 2026-10-01 | 2026-10-29 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Waterloo-Ontario/Student--Data-Centre--Winter-2027-----First-Nations--Inuit--or-Mtis-Candidates_JR00128194) |
 | Sun Life | Student, Digital Analytics (Summer 2027-Summer 2028) | Toronto, Ontario | Not specified | Full time | 2026-09-30 | 2026-10-10 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Digital-Analytics--Summer-2027-Summer-2028--_JR00126578) |
+| Tenstorrent University | AI SW Intern, Infrastructure & Data Centre Deployment | Toronto, Ontario, Canada | Not specified | Intern / Co-op | 2026-10-06 | Not specified | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256579007) |
+| Tenstorrent University | Hardware Intern - AI HW & System on a Chip | Ottawa, Ontario, Canada; Toronto, Ontario, Canada | Not specified | Intern / Co-op | 2026-10-06 | Not specified | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) |
 
 <!-- JOBS:END -->
 
