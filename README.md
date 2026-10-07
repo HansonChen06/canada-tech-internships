@@ -11,7 +11,7 @@ cybersecurity **internship / co-op** roles located in Canada.
 
 <!-- JOBS:START -->
 
-_Last updated: 2026-10-06 17:13 UTC · 53 open roles_
+_Last updated: 2026-10-07 17:50 UTC · 54 open roles_
 
 | Company | Role | Location | Work mode | Type | Posted | Deadline | Apply |
 |---|---|---|---|---|---|---|---|
@@ -35,6 +35,7 @@ _Last updated: 2026-10-06 17:13 UTC · 53 open roles_
 | CIBC | AI & Data Analytics and Reporting Analyst, Winter 2027 Co-op | Toronto, ON | Not specified | Full time | 2026-10-01 | 2026-10-09 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI---Data-Analytics-and-Reporting-Analyst-Co-op_2619748) |
 | CIBC | Optimization & Process Engineering Analyst Co-op (16 Month Term) | Toronto, ON | Not specified | Full time | 2026-10-05 | 2026-11-20 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Optimization---Process-Engineering-Analyst-Co-op--16-Month-Term-_2618669) |
 | CIBC | Process Engineering Analyst, Continuous Improvement  & Data Insights Co-op (12 to 16 month Term) | Toronto, ON | Not specified | Full time | 2026-09-21 | 2026-10-09 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Process-Engineering-Analyst--Continuous-Improvement----Data-Insights-Co-op--12-to-16-month-Term-_2619157) |
+| CIBC | Product Analyst Co-op, IE Product Development & Delivery – Winter 2027 | Toronto, ON | Not specified | Full time | 2026-10-07 | 2026-10-21 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op--IE-Product-Development---Delivery---Winter-2027_2620681) |
 | CIBC | Quality Assurance Analyst, Winter 2027 Co-op | Toronto, ON | Not specified | Full time | 2026-10-01 | 2026-10-08 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Quality-Assurance-Analyst-Co-op-Winter-2027_2619573) |
 | CIBC | Software/Application Developer Co-op | Toronto, ON | Not specified | Full time | 2026-09-28 | 2026-10-12 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461) |
 | Cohere | Machine Learning Intern/Co-op  (Winter 2027) | Canada; Europe; United States; United Kingdom | Remote | Intern | 2026-05-13 | Not specified | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) |
