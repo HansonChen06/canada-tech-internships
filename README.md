@@ -11,7 +11,7 @@ cybersecurity **internship / co-op** roles located in Canada.
 
 <!-- JOBS:START -->
 
-_Last updated: 2026-10-11 16:40 UTC · 49 open roles_
+_Last updated: 2026-10-12 20:18 UTC · 46 open roles_
 
 | Company | Role | Location | Work mode | Type | Posted | Deadline | Apply |
 |---|---|---|---|---|---|---|---|
@@ -32,7 +32,6 @@ _Last updated: 2026-10-11 16:40 UTC · 49 open roles_
 | CIBC | Optimization & Process Engineering Analyst Co-op (16 Month Term) | Toronto, ON | Not specified | Full time | 2026-10-05 | 2026-11-20 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Optimization---Process-Engineering-Analyst-Co-op--16-Month-Term-_2618669) |
 | CIBC | Process Engineering Analyst, Continuous Improvement  & Data Insights Co-op (12 to 16 month Term) | Toronto, ON | Not specified | Full time | 2026-10-09 | 2026-10-30 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Process-Engineering-Analyst--Continuous-Improvement----Data-Insights-Co-op--12-to-16-month-Term-_2619157) |
 | CIBC | Product Analyst Co-op, IE Product Development & Delivery – Winter 2027 | Toronto, ON | Not specified | Full time | 2026-10-07 | 2026-10-21 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op--IE-Product-Development---Delivery---Winter-2027_2620681) |
-| CIBC | Software/Application Developer Co-op | Toronto, ON | Not specified | Full time | 2026-09-28 | 2026-10-12 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Software-Application-Developer-Co-op_2619461) |
 | Cohere | Machine Learning Intern/Co-op  (Winter 2027) | Canada; Europe; United States; United Kingdom | Remote | Intern | 2026-05-13 | Not specified | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) |
 | Cohere | Research Internship (Winter 2027) | Canada; San Francisco; Europe; London; United States; United Kingdom; Toronto; Montreal | Remote | Intern | 2026-05-01 | Not specified | [Apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785) |
 | Cohere | Software Engineer Intern (Winter 2027) | Canada; Dubai; London; United States; United Kingdom | Remote | Intern | 2026-05-01 | Not specified | [Apply](https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254) |
@@ -50,7 +49,6 @@ _Last updated: 2026-10-11 16:40 UTC · 49 open roles_
 | Manulife | Summer Intern 2027 - Product Management & Risk Technology | Toronto, Ontario | Not specified | Full time | 2026-10-08 | 2026-10-26 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Product-Management---Risk-Technology_JR26080875) |
 | Manulife | Winter Co-op 2027 - ALM Data Management & Analytics | Toronto, Ontario | Not specified | Full time | 2026-10-01 | 2026-11-01 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---ALM-Data-Management---Analytics_JR26091831) |
 | Manulife | Winter Co-op 2027 - Product Designer (UX/UI/HCI) | Toronto, Ontario; Waterloo, Ontario | Not specified | Full time | 2026-10-05 | 2026-10-19 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---Product-Designer_JR26080163) |
-| RBC | 2027 CFO Winter Process Re-Engineering Intern (4 Months) | TORONTO, Ontario, Canada | Not specified | Full time | 2026-09-24 | 2026-10-12 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-CFO-Winter-Process-Re-Engineering-Intern--4-Months-_R-0000188575) |
 | RBC | 2027 Winter – GRM, AI Business Analyst Intern – Innovation & AI Centre of Excellence (4 Months) | TORONTO, Ontario, Canada | Not specified | Full time | 2026-10-05 | 2026-10-19 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Business-Analyst-Intern---Innovation---AI-Centre-of-Excellence--4-Months-_R-0000188000-1) |
 | RBC | 2027 Winter – GRM, AI Developer Intern - Innovation & AI Center of Excellence (4 Months) | TORONTO, Ontario, Canada | Not specified | Full time | 2026-10-05 | 2026-10-19 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001-1) |
 | Remarcable | Full Stack Developer (Student Co-op) | Vancouver, BC | OnSite | Intern | 2026-09-01 | Not specified | [Apply](https://jobs.ashbyhq.com/remarcable-inc/a4f3aaaa-9469-42e8-a610-450d25eb5da7) |
@@ -58,7 +56,6 @@ _Last updated: 2026-10-11 16:40 UTC · 49 open roles_
 | StackAdapt | Machine Learning Engineer Intern - Winter 2027 | Canada | Not specified | Intern / Co-op | 2026-09-08 | Not specified | [Apply](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4397976009) |
 | StackAdapt | Software Engineer, Backend Intern - Winter 2027 | Canada | Not specified | Intern / Co-op | 2026-09-08 | Not specified | [Apply](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386552009) |
 | Sun Life | Student, Analytics & Technology Systems (Winter 2027) | Sun Life Toronto One York | Not specified | Full time | 2026-10-08 | 2026-10-15 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Sun-Life-Toronto-One-York/Student--Analytics---Technology-Systems--Winter-2027-_JR00126478) |
-| Sun Life | Student, Cloud CX Consultant (Winter 2027) | Waterloo, Ontario | Not specified | Full time | 2026-10-02 | 2026-10-12 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Waterloo-Ontario/Student--Cloud-CX-Consultant--Winter-2027-_JR00128340) |
 | Sun Life | Student, Data Analyst  (Winter 2027) | Toronto, Ontario; Sun Life Waterloo King | Not specified | Full time | 2026-10-05 | 2026-10-13 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Data-Analyst---Winter-2027-_JR00128365) |
 | Sun Life | Student, Data Centre (Winter 2027)  - First Nations, Inuit, or Métis Candidates | Waterloo, Ontario | Not specified | Full time | 2026-10-01 | 2026-10-29 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Waterloo-Ontario/Student--Data-Centre--Winter-2027-----First-Nations--Inuit--or-Mtis-Candidates_JR00128194) |
 | Tenstorrent University | AI Software Intern (Canada) | Toronto, Ontario, Canada | Not specified | Intern / Co-op | 2026-10-08 | Not specified | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) |
