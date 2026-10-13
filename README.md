@@ -11,7 +11,7 @@ cybersecurity **internship / co-op** roles located in Canada.
 
 <!-- JOBS:START -->
 
-_Last updated: 2026-10-12 20:18 UTC · 46 open roles_
+_Last updated: 2026-10-13 18:19 UTC · 47 open roles_
 
 | Company | Role | Location | Work mode | Type | Posted | Deadline | Apply |
 |---|---|---|---|---|---|---|---|
@@ -25,6 +25,7 @@ _Last updated: 2026-10-12 20:18 UTC · 46 open roles_
 | CAE | Stagiaire - Génie Industriel/Manufacturier et Amélioration Continue / ndustrial/Manufacturing Engineering and Continuous Improvement Intern | Montreal (St. Laurent) | Not specified | Full time | 2026-09-21 | Not specified | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Gnie-Industriel-Manufacturier-et-Amlioration-Continue---ndustrial-Manufacturing-Engineering-and-Continuous-Improvement-Intern_123649) |
 | CAE | Tax Intern – Tax Technology & AI Enablement | Montreal (St. Laurent) | Not specified | Full time | 2026-09-21 | Not specified | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Tax-Intern---Tax-Technology---AI-Enablement_123617) |
 | Capital One Canada | Intern, Backend Software Engineer - Team Interstellar - Winter 2027 | Toronto, ON | Not specified | Full time | 2026-09-21 | Not specified | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Backend-Software-Engineer---Team-Interstellar---Winter-2027_R249022) |
+| Capital One Canada | Intern, Data Scientist - Winter 2027 | Toronto, ON | Not specified | Full time | 2026-10-13 | 2026-10-15 | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Winter-2027_R999619-1) |
 | Capital One Canada | Intern, Full Stack Software Engineer - Team Pickle - Winter 2027 | Toronto, ON | Not specified | Full time | 2026-09-21 | Not specified | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Pickle---Winter-2027_R249013) |
 | Capital One Canada | Intern, Full Stack Software Engineer - Team Sprout - Winter 2027 | Toronto, ON | Not specified | Full time | 2026-09-21 | Not specified | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Full-Stack-Software-Engineer---Team-Integrated-Sprout---Winter-2027_R249010) |
 | Capital One Canada | Intern, Mobile Software Engineer - Team Gringotts North - Winter 2027 | Toronto, ON | Not specified | Full time | 2026-09-21 | Not specified | [Apply](https://capitalone.wd12.myworkdayjobs.com/Capital_One/job/Toronto-ON/Intern--Mobile-Software-Engineer---Team-Gringotts-North---Winter-2027_R249015) |
@@ -54,10 +55,10 @@ _Last updated: 2026-10-12 20:18 UTC · 46 open roles_
 | Remarcable | Full Stack Developer (Student Co-op) | Vancouver, BC | OnSite | Intern | 2026-09-01 | Not specified | [Apply](https://jobs.ashbyhq.com/remarcable-inc/a4f3aaaa-9469-42e8-a610-450d25eb5da7) |
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern - Applications, Infotainment & Mobile (January - August 2027) | Vancouver, British Columbia; Toronto, Ontario | Hybrid | Intern | 2026-09-04 | Not specified | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/bc8e38eb-b68c-4234-a06a-99875df7d600) |
 | StackAdapt | Machine Learning Engineer Intern - Winter 2027 | Canada | Not specified | Intern / Co-op | 2026-09-08 | Not specified | [Apply](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4397976009) |
-| StackAdapt | Software Engineer, Backend Intern - Winter 2027 | Canada | Not specified | Intern / Co-op | 2026-09-08 | Not specified | [Apply](https://job-boards.greenhouse.io/stackadapt-confidential/jobs/4386552009) |
+| Sun Life | Student, AI Developer | Toronto, Ontario; Waterloo, Ontario | Not specified | Full time | 2026-10-13 | 2026-10-20 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/AI-Developer-Co-op_JR00128581-1) |
 | Sun Life | Student, Analytics & Technology Systems (Winter 2027) | Sun Life Toronto One York | Not specified | Full time | 2026-10-08 | 2026-10-15 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Sun-Life-Toronto-One-York/Student--Analytics---Technology-Systems--Winter-2027-_JR00126478) |
-| Sun Life | Student, Data Analyst  (Winter 2027) | Toronto, Ontario; Sun Life Waterloo King | Not specified | Full time | 2026-10-05 | 2026-10-13 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Data-Analyst---Winter-2027-_JR00128365) |
 | Sun Life | Student, Data Centre (Winter 2027)  - First Nations, Inuit, or Métis Candidates | Waterloo, Ontario | Not specified | Full time | 2026-10-01 | 2026-10-29 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Waterloo-Ontario/Student--Data-Centre--Winter-2027-----First-Nations--Inuit--or-Mtis-Candidates_JR00128194) |
+| Sun Life | Student, Junior Strategy Analyst (AI Strategy) (Winter 2027) | Toronto, Ontario; Sun Life Waterloo King; Ontario Telecommuters | Not specified | Full time | 2026-10-13 | 2026-10-20 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Junior-Strategy-Analyst--AI-Strategy---Winter-2027-_JR00126666) |
 | Tenstorrent University | AI Software Intern (Canada) | Toronto, Ontario, Canada | Not specified | Intern / Co-op | 2026-10-08 | Not specified | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) |
 | Tenstorrent University | AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (Canada) | Toronto, Ontario, Canada | Not specified | Intern / Co-op | 2026-10-06 | Not specified | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256579007) |
 | Tenstorrent University | Hardware Intern - AI HW & SoC (Canada) | Ottawa, Ontario, Canada; Toronto, Ontario, Canada | Not specified | Intern / Co-op | 2026-10-06 | Not specified | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) |
