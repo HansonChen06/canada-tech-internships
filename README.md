@@ -11,7 +11,7 @@ cybersecurity **internship / co-op** roles located in Canada.
 
 <!-- JOBS:START -->
 
-_Last updated: 2026-10-15 15:37 UTC · 40 open roles_
+_Last updated: 2026-10-16 15:23 UTC · 41 open roles_
 
 | Company | Role | Location | Work mode | Type | Posted | Deadline | Apply |
 |---|---|---|---|---|---|---|---|
@@ -24,6 +24,7 @@ _Last updated: 2026-10-15 15:37 UTC · 40 open roles_
 | CAE | Software Developer Coop | Montreal (St. Laurent) | Not specified | Full time | 2026-10-06 | Not specified | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Software-Developer-Coop_123904) |
 | CAE | Stagiaire - Génie Industriel/Manufacturier et Amélioration Continue / ndustrial/Manufacturing Engineering and Continuous Improvement Intern | Montreal (St. Laurent) | Not specified | Full time | 2026-09-21 | Not specified | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Gnie-Industriel-Manufacturier-et-Amlioration-Continue---ndustrial-Manufacturing-Engineering-and-Continuous-Improvement-Intern_123649) |
 | CAE | Tax Intern – Tax Technology & AI Enablement | Montreal (St. Laurent) | Not specified | Full time | 2026-09-21 | Not specified | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Tax-Intern---Tax-Technology---AI-Enablement_123617) |
+| CIBC | Information Security Analyst Winter 2027 Co-op | Toronto, ON | Not specified | Full time | 2026-10-15 | 2026-10-29 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Information-Security-Analyst-Winter-2027-Co-op_2621159) |
 | CIBC | Investor’s Edge, UI Designer (Design System) Winter 2027 Co-Op (8-months) | Toronto, ON | Not specified | Full time | 2026-10-14 | 2026-10-23 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Investor-s-Edge--UI-Designer--Design-System--Winter-2027-Co-Op--8-months-_2620694) |
 | CIBC | Optimization & Process Engineering Analyst Co-op (16 Month Term) | Toronto, ON | Not specified | Full time | 2026-10-05 | 2026-11-20 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Optimization---Process-Engineering-Analyst-Co-op--16-Month-Term-_2618669) |
 | CIBC | Process Engineering Analyst, Continuous Improvement  & Data Insights Co-op (12 to 16 month Term) | Toronto, ON | Not specified | Full time | 2026-10-09 | 2026-10-30 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Process-Engineering-Analyst--Continuous-Improvement----Data-Insights-Co-op--12-to-16-month-Term-_2619157) |
