@@ -11,11 +11,10 @@ cybersecurity **internship / co-op** roles located in Canada.
 
 <!-- JOBS:START -->
 
-_Last updated: 2026-10-17 14:13 UTC · 38 open roles_
+_Last updated: 2026-10-18 14:35 UTC · 37 open roles_
 
 | Company | Role | Location | Work mode | Type | Posted | Deadline | Apply |
 |---|---|---|---|---|---|---|---|
-| BMO | Software Developer, Winter 2027 (Co-op/Internship) - 4 Months | Toronto, ON, CAN | Not specified | Full time | 2026-10-08 | 2026-10-18 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638-3) |
 | Bree | Machine Learning Engineering, Intern | Toronto | Hybrid | Intern | 2026-07-15 | Not specified | [Apply](https://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a) |
 | Bree | Software Engineer, Backend (Co-op) | Toronto | Hybrid | Intern | 2026-09-04 | Not specified | [Apply](https://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b) |
 | Bree | Software Engineer, Product (Co-op) | Toronto | Hybrid | Intern | 2026-09-04 | Not specified | [Apply](https://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88) |
