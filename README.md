@@ -11,7 +11,7 @@ cybersecurity **internship / co-op** roles located in Canada.
 
 <!-- JOBS:START -->
 
-_Last updated: 2026-10-20 15:40 UTC · 36 open roles_
+_Last updated: 2026-10-21 15:58 UTC · 37 open roles_
 
 | Company | Role | Location | Work mode | Type | Posted | Deadline | Apply |
 |---|---|---|---|---|---|---|---|
@@ -20,7 +20,6 @@ _Last updated: 2026-10-20 15:40 UTC · 36 open roles_
 | Bree | Software Engineer, Backend (Co-op) | Toronto | Hybrid | Intern | 2026-09-04 | Not specified | [Apply](https://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b) |
 | Bree | Software Engineer, Product (Co-op) | Toronto | Hybrid | Intern | 2026-09-04 | Not specified | [Apply](https://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88) |
 | CAE | C-FIN-275 Software Engineering Intern, AI, Automation and Business Intelligence | Montreal (St. Laurent) | Not specified | Full time | 2026-10-09 | Not specified | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-FIN-275-Software-Engineering-Intern--AI--Automation-and-Business-Intelligence_123477-1) |
-| CAE | Software Developer Coop | Montreal (St. Laurent) | Not specified | Full time | 2026-10-06 | Not specified | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Software-Developer-Coop_123904) |
 | CAE | Stagiaire - Génie Industriel/Manufacturier et Amélioration Continue / ndustrial/Manufacturing Engineering and Continuous Improvement Intern | Montreal (St. Laurent) | Not specified | Full time | 2026-09-21 | Not specified | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Gnie-Industriel-Manufacturier-et-Amlioration-Continue---ndustrial-Manufacturing-Engineering-and-Continuous-Improvement-Intern_123649) |
 | CIBC | Advanced Analytics and AI Co-op | Toronto, ON | Not specified | Full time | 2026-10-19 | 2026-11-16 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Advanced-Analytics-and-AI-Co-op_2621440) |
 | CIBC | Analytics Co-op | Toronto, ON | Not specified | Full time | 2026-10-19 | 2026-11-16 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analytics-Co-op_2621449-1) |
@@ -30,7 +29,9 @@ _Last updated: 2026-10-20 15:40 UTC · 36 open roles_
 | CIBC | Investor’s Edge, UI Designer (Design System) Winter 2027 Co-Op (8-months) | Toronto, ON | Not specified | Full time | 2026-10-14 | 2026-10-23 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Investor-s-Edge--UI-Designer--Design-System--Winter-2027-Co-Op--8-months-_2620694) |
 | CIBC | Optimization & Process Engineering Analyst Co-op (16 Month Term) | Toronto, ON | Not specified | Full time | 2026-10-05 | 2026-11-20 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Optimization---Process-Engineering-Analyst-Co-op--16-Month-Term-_2618669) |
 | CIBC | Process Engineering Analyst, Continuous Improvement  & Data Insights Co-op (12 to 16 month Term) | Toronto, ON | Not specified | Full time | 2026-10-09 | 2026-10-30 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Process-Engineering-Analyst--Continuous-Improvement----Data-Insights-Co-op--12-to-16-month-Term-_2619157) |
+| CIBC | Product Analyst Co-op | Toronto, ON | Not specified | Full time | 2026-10-21 | 2026-11-11 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op_2621541) |
 | CIBC | Product Analyst Co-op, IE Product Development & Delivery – Winter 2027 | Toronto, ON | Not specified | Full time | 2026-10-14 | 2026-10-23 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op--IE-Product-Development---Delivery---Winter-2027_2620681) |
+| CIBC | Research and Strategy Co-op (Winter 2027), Enterprise Technology & Business Management | Toronto, ON | Not specified | Full time | 2026-10-20 | 2026-11-16 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Research-and-Strategy-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621527) |
 | CIBC | Test/QA Analyst Co-op (Winter 2027), Enterprise Technology & Business Management | Toronto, ON | Not specified | Full time | 2026-10-19 | 2026-11-16 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Test-QA-Analyst-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621525) |
 | Cohere | Machine Learning Intern/Co-op  (Winter 2027) | Canada; Europe; United States; United Kingdom | Remote | Intern | 2026-05-13 | Not specified | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) |
 | Cohere | Research Internship (Winter 2027) | Canada; San Francisco; Europe; London; United States; United Kingdom; Toronto; Montreal | Remote | Intern | 2026-05-01 | Not specified | [Apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785) |
