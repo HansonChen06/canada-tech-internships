@@ -11,7 +11,7 @@ cybersecurity **internship / co-op** roles located in Canada.
 
 <!-- JOBS:START -->
 
-_Last updated: 2026-10-27 16:38 UTC · 44 open roles_
+_Last updated: 2026-10-28 17:11 UTC · 47 open roles_
 
 | Company | Role | Location | Work mode | Type | Posted | Deadline | Apply |
 |---|---|---|---|---|---|---|---|
@@ -23,7 +23,7 @@ _Last updated: 2026-10-27 16:38 UTC · 44 open roles_
 | CIBC | Advanced Analytics and AI Co-op | Toronto, ON | Not specified | Full time | 2026-10-21 | 2026-11-16 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Advanced-Analytics-and-AI-Co-op_2621440) |
 | CIBC | AI and Quantum Scientist Co-op | Toronto, ON | Not specified | Full time | 2026-10-21 | 2026-11-16 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649) |
 | CIBC | AI Scientist Co-op | Toronto, ON | Not specified | Full time | 2026-10-26 | 2026-11-16 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-Scientist-Co-op_2622058) |
-| CIBC | Analyst, Enterprise Data and Records co-op | Toronto, ON | Not specified | Full time | 2026-10-21 | 2026-11-16 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668) |
+| CIBC | Analyst, Enterprise Data and Records co-op | Toronto, ON | Not specified | Full time | 2026-10-27 | 2026-11-16 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668) |
 | CIBC | Analytics Co-op | Toronto, ON | Not specified | Full time | 2026-10-21 | 2026-11-16 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analytics-Co-op_2621449-1) |
 | CIBC | Application/Software Developer Co-op (Winter 2027), Capital Markets Technology | Toronto, ON | Not specified | Full time | 2026-10-19 | 2026-11-16 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Capital-Markets-Technology_2621523) |
 | CIBC | Application/Software Developer Co-op (Winter 2027), Enterprise Technology & Business Management | Toronto, ON | Not specified | Full time | 2026-10-19 | 2026-11-16 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Application-Software-Developer-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621524-2) |
@@ -36,6 +36,7 @@ _Last updated: 2026-10-27 16:38 UTC · 44 open roles_
 | CIBC | Product Analyst- Winter 2027 Co-op | Toronto, ON | Not specified | Full time | 2026-10-21 | 2026-11-11 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Product-Analyst-Co-op_2621541) |
 | CIBC | Research and Strategy Co-op (Winter 2027), Enterprise Technology & Business Management | Toronto, ON | Not specified | Full time | 2026-10-20 | 2026-11-16 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Research-and-Strategy-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621527) |
 | CIBC | Research Operations & AI Enablement, Winter 2027 Co-op | Toronto, ON | Not specified | Full time | 2026-10-22 | 2026-11-12 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Research-Operations---AI-Enablement--Winter-2027-Co-op_2621713) |
+| CIBC | Risk Analytics, Winter 2027 Co-op (8-month) | Toronto, ON | Not specified | Full time | 2026-10-27 | 2026-10-30 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Risk-Analytics--Winter-2027-Co-op--8-month-_2622133-2) |
 | CIBC | Test/QA Analyst Co-op (Winter 2027), Enterprise Technology & Business Management | Toronto, ON | Not specified | Full time | 2026-10-19 | 2026-11-16 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Test-QA-Analyst-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621525) |
 | Cohere | Machine Learning Intern/Co-op  (Winter 2027) | Canada; Europe; United States; United Kingdom | Remote | Intern | 2026-05-13 | Not specified | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) |
 | Cohere | Research Internship (Winter 2027) | Canada; San Francisco; Europe; London; United States; United Kingdom; Toronto; Montreal | Remote | Intern | 2026-05-01 | Not specified | [Apply](https://jobs.ashbyhq.com/cohere/73bd3e2b-6597-4124-b64b-1e5dbc32e785) |
@@ -54,9 +55,11 @@ _Last updated: 2026-10-27 16:38 UTC · 44 open roles_
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern - Embedded Platforms (Summer 2027) | Vancouver, British Columbia | Hybrid | Intern | 2026-10-22 | Not specified | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/c6ae5fc4-ac16-450c-ac07-3efd6f0411a1) |
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern - Vehicle Controls (Summer 2027) | Vancouver, British Columbia | Hybrid | Intern | 2026-10-22 | Not specified | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0) |
 | Sun Life | Student, Data Centre (Winter 2027)  - First Nations, Inuit, or Métis Candidates | Waterloo, Ontario | Not specified | Full time | 2026-10-01 | 2026-10-29 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Waterloo-Ontario/Student--Data-Centre--Winter-2027-----First-Nations--Inuit--or-Mtis-Candidates_JR00128194) |
+| Sun Life | Student, Quality Engineering Analyst (Winter 2027) | Waterloo, Ontario; Sun Life Toronto Atria | Not specified | Full time | 2026-10-27 | 2026-11-05 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Waterloo-Ontario/Student--Quality-Engineering-Analyst--Winter-and-Summer-2027-_JR00128337) |
 | Sun Life | Student, Software Engineer - Security (Winter 2027) | Toronto, Ontario | Not specified | Full time | 2026-10-26 | 2026-11-02 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Software-Engineer---Security--Winter-2027-_JR00129065) |
 | Tenstorrent University | AI Software Intern (Canada) | Toronto, Ontario, Canada | Not specified | Intern / Co-op | 2026-10-08 | Not specified | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) |
 | Tenstorrent University | AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (Canada) | Toronto, Ontario, Canada | Not specified | Intern / Co-op | 2026-10-06 | Not specified | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256579007) |
+| Tenstorrent University | GTM (FAE & Customer Success) and Product Intern | Santa Clara, California, United States; Toronto, Ontario, Canada | Not specified | Intern / Co-op | 2026-10-28 | Not specified | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5274249007) |
 | Tenstorrent University | Hardware Intern - AI HW & SoC (Canada) | Ottawa, Ontario, Canada; Toronto, Ontario, Canada | Not specified | Intern / Co-op | 2026-10-06 | Not specified | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256568007) |
 | Tenstorrent University | Systems Intern - Validation, Software, Design, Architecture & Packaging (Canada) | Toronto, Ontario, Canada; Toronto, Ontario, Canada; Vancouver, British Columbia, Canada | Not specified | Intern / Co-op | 2026-10-14 | Not specified | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264407007) |
 
