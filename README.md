@@ -11,7 +11,7 @@ cybersecurity **internship / co-op** roles located in Canada.
 
 <!-- JOBS:START -->
 
-_Last updated: 2026-10-31 16:07 UTC · 47 open roles_
+_Last updated: 2026-11-01 17:08 UTC · 46 open roles_
 
 | Company | Role | Location | Work mode | Type | Posted | Deadline | Apply |
 |---|---|---|---|---|---|---|---|
@@ -47,7 +47,6 @@ _Last updated: 2026-10-31 16:07 UTC · 47 open roles_
 | Geotab Internships | Software Developer Intern, MyAdmin (Winter/January 2027, 8+ Months) | Oakville, Ontario - Canada; Waterloo, Ontario - Canada | Not specified | Intern / Co-op | 2026-09-02 | Not specified | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5361630008) |
 | Magnet Forensics | Software Developer Co-op (Winter 2027) | Waterloo / Ottawa / Ontario | hybrid | Co-op | 2026-09-18 | Not specified | [Apply](https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52) |
 | Manulife | Operations & Data Analyst Co-op (8 Months) | Waterloo, Ontario; Toronto, Ontario | Not specified | Full time | 2026-10-28 | 2026-11-03 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Waterloo-Ontario/Operations---Data-Analyst-Co-op--8-Months-_JR26091348) |
-| Manulife | Winter Co-op 2027 - ALM Data Management & Analytics | Toronto, Ontario | Not specified | Full time | 2026-10-01 | 2026-11-01 | [Apply](https://manulife.wd3.myworkdayjobs.com/MFCJH_Jobs/job/Toronto-Ontario/Winter-Co-op-2027---ALM-Data-Management---Analytics_JR26091831) |
 | Rivian and Volkswagen Group Technologies | Electromechanical Design Engineering Intern (Summer 2027) | Vancouver, British Columbia | Hybrid | Intern | 2026-10-22 | Not specified | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/d7645387-e536-453b-9b15-61f071a8135b) |
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern - Applications (Summer 2027) | Vancouver, British Columbia; Toronto, Ontario | Hybrid | Intern | 2026-10-22 | Not specified | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/b142f138-e300-4e84-8aa5-50ed506d288b) |
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern - Applications, Infotainment & Mobile (January - August 2027) | Vancouver, British Columbia; Toronto, Ontario | Hybrid | Intern | 2026-09-04 | Not specified | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/bc8e38eb-b68c-4234-a06a-99875df7d600) |
