@@ -11,13 +11,14 @@ cybersecurity **internship / co-op** roles located in Canada.
 
 <!-- JOBS:START -->
 
-_Last updated: 2026-11-05 18:46 UTC · 45 open roles_
+_Last updated: 2026-11-06 17:58 UTC · 45 open roles_
 
 | Company | Role | Location | Work mode | Type | Posted | Deadline | Apply |
 |---|---|---|---|---|---|---|---|
 | BMO | Junior Software Developer, Winter 2027 (Co-op/Internship) - 4 Months | Toronto, ON, CAN | Not specified | Full time | 2026-11-05 | 2026-11-07 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Junior-Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024650) |
 | BMO | Machine Learning Developer, Winter 2027 ( Co-op/Internship) - 4 months | Toronto, ON, CAN | Not specified | Full time | 2026-11-05 | 2026-11-07 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Machine-Learning-Developer--Winter-2027---Co-op-Internship----4-months_R260029620) |
 | BMO | Software Developer, Winter 2027 (Co-op/Internship) - 4 Months | Toronto, ON, CAN | Not specified | Full time | 2026-11-04 | 2026-11-07 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638-3) |
+| BMO | Technology Research Associate, Winter 2027 (Co-op/Internship) - 4 months | Toronto, ON, CAN | Not specified | Full time | 2026-11-06 | 2026-11-15 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Technology-Research-Associate--Winter-2027--Co-op-Internship----4-months_R260024978) |
 | Bree | Machine Learning Engineering, Intern | Toronto | Hybrid | Intern | 2026-07-15 | Not specified | [Apply](https://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a) |
 | Bree | Software Engineer, Backend (Co-op) | Toronto | Hybrid | Intern | 2026-09-04 | Not specified | [Apply](https://jobs.ashbyhq.com/bree/42fe78c1-e73f-4918-bf71-776b8142112b) |
 | Bree | Software Engineer, Product (Co-op) | Toronto | Hybrid | Intern | 2026-09-04 | Not specified | [Apply](https://jobs.ashbyhq.com/bree/17d8dd15-5f97-4003-8d6c-170dca13ff88) |
@@ -42,12 +43,11 @@ _Last updated: 2026-11-05 18:46 UTC · 45 open roles_
 | CIBC | Research Operations & AI Enablement, Winter 2027 Co-op | Toronto, ON | Not specified | Full time | 2026-10-22 | 2026-11-12 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Research-Operations---AI-Enablement--Winter-2027-Co-op_2621713) |
 | CIBC | Test/QA Analyst Co-op (Winter 2027), Enterprise Technology & Business Management | Toronto, ON | Not specified | Full time | 2026-10-19 | 2026-11-16 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Test-QA-Analyst-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621525) |
 | Cohere | Machine Learning Intern/Co-op  (Winter 2027) | Canada; Europe; United States; United Kingdom | Remote | Intern | 2026-05-13 | Not specified | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) |
-| Geotab Internships | Embedded Developer Intern, Engine Data Reliability ( Winter/ January 2027, 12-16 months) | Oakville, Ontario - Canada | Not specified | Intern / Co-op | 2026-09-10 | Not specified | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5396891008) |
-| Geotab Internships | Software Developer Intern, Geotab Vitality (Winter/January 2027, 4 Months) | Oakville, Ontario - Canada; Toronto, Ontario - Canada; Waterloo, Ontario - Canada | Not specified | Intern / Co-op | 2026-09-03 | Not specified | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5376578008) |
 | Geotab Internships | Software Developer Intern, MyAdmin (Winter/January 2027, 8+ Months) | Oakville, Ontario - Canada; Waterloo, Ontario - Canada | Not specified | Intern / Co-op | 2026-09-02 | Not specified | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5361630008) |
 | Magnet Forensics | Software Developer Co-op (Winter 2027) | Waterloo / Ottawa / Ontario | hybrid | Co-op | 2026-09-18 | Not specified | [Apply](https://jobs.lever.co/magnetforensics/6eba87dc-f110-47b2-8015-31311ca60f52) |
 | RBC | 2027 Capital Markets, Global Equities, AI Engineer (16 Months, Co-op) | TORONTO, Ontario, Canada | Not specified | Full time | 2026-11-03 | 2026-11-16 | [Apply](https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Capital-Markets--Global-Equities--AI-Engineer--16-Months--Co-op-_R-0000187401-1) |
 | Rivian and Volkswagen Group Technologies | Electromechanical Design Engineering Intern (Summer 2027) | Vancouver, British Columbia | Hybrid | Intern | 2026-10-22 | Not specified | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/d7645387-e536-453b-9b15-61f071a8135b) |
+| Rivian and Volkswagen Group Technologies | Mechatronics Lab Engineering Intern (January - August 2027) | Vancouver, British Columbia | OnSite | Intern | 2026-11-06 | Not specified | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/e1647212-5d09-4877-a172-da50ae46dfe8) |
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern - Applications (Summer 2027) | Vancouver, British Columbia; Toronto, Ontario | Hybrid | Intern | 2026-10-22 | Not specified | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/b142f138-e300-4e84-8aa5-50ed506d288b) |
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern - Applications, Infotainment & Mobile (January - August 2027) | Vancouver, British Columbia; Toronto, Ontario | Hybrid | Intern | 2026-09-04 | Not specified | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/bc8e38eb-b68c-4234-a06a-99875df7d600) |
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern - Connected Systems (Summer 2027) | Vancouver, British Columbia | Hybrid | Intern | 2026-10-22 | Not specified | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/eebfb0d2-b4d7-407b-941e-51f53f5412ec) |
