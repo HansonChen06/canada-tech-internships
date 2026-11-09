@@ -11,7 +11,7 @@ cybersecurity **internship / co-op** roles located in Canada.
 
 <!-- JOBS:START -->
 
-_Last updated: 2026-11-08 17:03 UTC · 45 open roles_
+_Last updated: 2026-11-09 21:27 UTC · 46 open roles_
 
 | Company | Role | Location | Work mode | Type | Posted | Deadline | Apply |
 |---|---|---|---|---|---|---|---|
@@ -22,7 +22,6 @@ _Last updated: 2026-11-08 17:03 UTC · 45 open roles_
 | CAE | Stagiaire - Génie Industriel/Manufacturier et Amélioration Continue / Industrial/Manufacturing Engineering and Continuous Improvement Intern | Montreal (St. Laurent) | Not specified | Full time | 2026-10-28 | Not specified | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Gnie-Industriel-Manufacturier-et-Amlioration-Continue---ndustrial-Manufacturing-Engineering-and-Continuous-Improvement-Intern_123650) |
 | CIBC | Advanced Analytics and AI Co-op | Toronto, ON | Not specified | Full time | 2026-10-21 | 2026-11-16 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Advanced-Analytics-and-AI-Co-op_2621440) |
 | CIBC | AI and Quantum Scientist Co-op | Toronto, ON | Not specified | Full time | 2026-10-21 | 2026-11-16 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-and-Quantum-Scientist-Co-op_2621649) |
-| CIBC | AI Developer Co-op – Bilingual – Winter 2027 | Montréal, QC | Not specified | Full time | 2026-10-29 | 2026-11-09 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Montral-QC/AI-Developer-Co-op---Bilingual---Winter-2027_2622390) |
 | CIBC | AI Scientist Co-op | Toronto, ON | Not specified | Full time | 2026-10-26 | 2026-11-16 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/AI-Scientist-Co-op_2622058) |
 | CIBC | Analyst, Enterprise Data and Records co-op | Toronto, ON | Not specified | Full time | 2026-10-27 | 2026-11-16 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analyst--Enterprise-Data-and-Records-co-op_2621668) |
 | CIBC | Analytics Co-op | Toronto, ON | Not specified | Full time | 2026-10-21 | 2026-11-16 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Analytics-Co-op_2621449-1) |
@@ -40,6 +39,8 @@ _Last updated: 2026-11-08 17:03 UTC · 45 open roles_
 | CIBC | Research Operations & AI Enablement, Winter 2027 Co-op | Toronto, ON | Not specified | Full time | 2026-10-22 | 2026-11-12 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Research-Operations---AI-Enablement--Winter-2027-Co-op_2621713) |
 | CIBC | Test/QA Analyst Co-op (Winter 2027), Enterprise Technology & Business Management | Toronto, ON | Not specified | Full time | 2026-10-19 | 2026-11-16 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Test-QA-Analyst-Co-op--Winter-2027---Enterprise-Technology---Business-Management_2621525) |
 | Cohere | Machine Learning Intern/Co-op  (Winter 2027) | Canada; Europe; United States; United Kingdom | Remote | Intern | 2026-05-13 | Not specified | [Apply](https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b) |
+| Cohere | Research Internship (Winter 2027) | Canada; San Francisco; Europe; London; United States; United Kingdom; Toronto; Montreal | Remote | Intern | 2026-11-09 | Not specified | [Apply](https://jobs.ashbyhq.com/cohere/cd3536d7-1518-470d-984d-d06bf189174d) |
+| Cohere | Software Engineer Intern (Winter 2027) | Toronto | Remote | Intern | 2026-09-18 | Not specified | [Apply](https://jobs.ashbyhq.com/cohere/df508fc2-f9c5-405d-bfc4-0f2c32404f02) |
 | Geotab Internships | Software Developer Intern, MyAdmin (Winter/January 2027, 8+ Months) | Oakville, Ontario - Canada; Waterloo, Ontario - Canada | Not specified | Intern / Co-op | 2026-09-02 | Not specified | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5361630008) |
 | Hootsuite | Co-op/Intern, DevOps - Winter 2027 | Alberta, British Columbia  | Not specified | Intern / Co-op | 2026-11-06 | Not specified | [Apply](https://job-boards.greenhouse.io/hootsuite/jobs/8359242) |
 | Hootsuite | Co-op/Intern, Software Development - Winter 2027 | Vancouver, BC, Toronto, ON | Not specified | Intern / Co-op | 2026-11-06 | Not specified | [Apply](https://job-boards.greenhouse.io/hootsuite/jobs/8360176) |
