@@ -11,11 +11,12 @@ cybersecurity **internship / co-op** roles located in Canada.
 
 <!-- JOBS:START -->
 
-_Last updated: 2026-11-16 21:02 UTC · 18 open roles_
+_Last updated: 2026-11-17 19:51 UTC · 19 open roles_
 
 | Company | Role | Location | Work mode | Type | Posted | Deadline | Apply |
 |---|---|---|---|---|---|---|---|
 | BMO | Data Analyst, Winter 2027 (Co-o/Internship) - 8 months | Toronto, ON, CAN | Not specified | Full time | 2026-11-10 | 2026-11-20 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Data-Analyst--Winter-2027--Co-o-Internship----8-months_R260026973) |
+| BMO | Software Developer, Winter 2027 (Co-op/Internship) - 4 Months | Toronto, ON, CAN | Not specified | Full time | 2026-11-17 | 2026-11-20 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Software-Developer--Winter-2027--Co-op-Internship----4-Months_R260024638-3) |
 | CAE | Stagiaire - Génie Industriel/Manufacturier et Amélioration Continue / Industrial/Manufacturing Engineering and Continuous Improvement Intern | Montreal (St. Laurent) | Not specified | Full time | 2026-10-28 | Not specified | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Gnie-Industriel-Manufacturier-et-Amlioration-Continue---ndustrial-Manufacturing-Engineering-and-Continuous-Improvement-Intern_123650) |
 | CIBC | Optimization & Process Engineering Analyst Co-op (16 Month Term) | Toronto, ON | Not specified | Full time | 2026-10-05 | 2026-11-20 | [Apply](https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Optimization---Process-Engineering-Analyst-Co-op--16-Month-Term-_2618669) |
 | Geotab Internships | Competitive Intelligence and Market Research Intern (Winter/January 2027, 12 Months) | Oakville, Ontario - Canada; Toronto, Ontario - Canada | Not specified | Intern / Co-op | 2026-09-15 | Not specified | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5413032008) |
