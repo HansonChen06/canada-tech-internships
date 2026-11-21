@@ -11,11 +11,11 @@ cybersecurity **internship / co-op** roles located in Canada.
 
 <!-- JOBS:START -->
 
-_Last updated: 2026-11-20 19:06 UTC · 18 open roles_
+_Last updated: 2026-11-21 17:58 UTC · 17 open roles_
 
 | Company | Role | Location | Work mode | Type | Posted | Deadline | Apply |
 |---|---|---|---|---|---|---|---|
-| BMO | Architecture Design, Winter 2027 (Co-op/Internship) -4 months | Toronto, ON, CAN | Not specified | Full time | 2026-11-18 | 2026-11-21 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Architecture-Design--Winter-2027--Co-op-Internship---4-months_R260028528) |
+| BMO | Quantitative Developer (Alpha Research Team) - GAM, Summer 2027 (Co-op/Internship) - 12 months | Toronto, ON, CAN | Not specified | Full time | 2026-11-20 | 2026-11-28 | [Apply](https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Quantitative-Developer--Alpha-Research-Team----GAM--Summer-2027--Co-op-Internship----12-months_R260026715-2) |
 | CAE | Stagiaire - Génie Industriel/Manufacturier et Amélioration Continue / Industrial/Manufacturing Engineering and Continuous Improvement Intern | Montreal (St. Laurent) | Not specified | Full time | 2026-10-28 | Not specified | [Apply](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/Stagiaire---Gnie-Industriel-Manufacturier-et-Amlioration-Continue---ndustrial-Manufacturing-Engineering-and-Continuous-Improvement-Intern_123650) |
 | Geotab Internships | Competitive Intelligence and Market Research Intern (Winter/January 2027, 12 Months) | Oakville, Ontario - Canada; Toronto, Ontario - Canada | Not specified | Intern / Co-op | 2026-09-15 | Not specified | [Apply](https://job-boards.greenhouse.io/internshiplist2000/jobs/5413032008) |
 | Magnet Forensics | Information Security Analyst Co-op (Winter 2027) | Waterloo / Ottawa / Ontario | remote | Co-op | 2026-11-10 | Not specified | [Apply](https://jobs.lever.co/magnetforensics/21c3d181-2751-4255-8084-f82cdc799483) |
@@ -27,7 +27,6 @@ _Last updated: 2026-11-20 19:06 UTC · 18 open roles_
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern - Embedded Platforms (Summer 2027) | Vancouver, British Columbia | Hybrid | Intern | 2026-10-22 | Not specified | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/c6ae5fc4-ac16-450c-ac07-3efd6f0411a1) |
 | Rivian and Volkswagen Group Technologies | Software Engineering Intern - Vehicle Controls (Summer 2027) | Vancouver, British Columbia | Hybrid | Intern | 2026-10-22 | Not specified | [Apply](https://jobs.ashbyhq.com/rivianvw.tech/a4e49f0a-7e3c-40b1-95a1-28fd907526d0) |
 | Sun Life | Student, Associate Front-End Developer (Winter 2027) | Sun Life Toronto One York; Sun Life Waterloo King | Not specified | Full time | 2026-11-18 | 2026-11-23 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Sun-Life-Toronto-One-York/Student--Associate-Front-End-Developer--Winter-2027-_JR00127140) |
-| Sun Life | Student, Data Analyst (Winter-Summer-Fall 2027) | Toronto, Ontario; Waterloo, Ontario | Not specified | Full time | 2026-11-20 | 2026-11-21 | [Apply](https://sunlife.wd3.myworkdayjobs.com/Campus/job/Toronto-Ontario/Student--Data-Analyst--Winter-Summer-Fall-2027-_JR00129284) |
 | Tenstorrent University | AI Software Intern (Canada) | Toronto, Ontario, Canada | Not specified | Intern / Co-op | 2026-10-08 | Not specified | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5259347007) |
 | Tenstorrent University | AI Software Intern - Cloud, Infrastructure & Data Centre Deployment (Canada) | Toronto, Ontario, Canada | Not specified | Intern / Co-op | 2026-10-06 | Not specified | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256579007) |
 | Tenstorrent University | GTM (FAE & Customer Success) and Product Intern | Santa Clara, California, United States; Toronto, Ontario, Canada | Not specified | Intern / Co-op | 2026-10-28 | Not specified | [Apply](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5274249007) |
